@@ -1,0 +1,186 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;;
+  max-width: 90vw;
+}
+
+.textInput {
+  margin: 20px;
+  height: 200px;
+  width: 70vw;
+}
+
+.box {
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  max-width: 100vw;
+}
+
+.item {
+  margin: 5px;
+  padding: 5px 10px;
+  padding-top: 2px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color-scheme: light dark;
+  display:flex;
+  flex-direction: column;
+}
+
+.itemActive {
+  margin: 5px;
+  padding: 5px 10px;
+  padding-top: 2px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color-scheme: light dark;
+  display:flex;
+  flex-direction: column;
+  background: #747bff;
+}
+
+.item:hover {
+  background-color: #1a1a1a;
+}
+
+.seedItem {
+  margin: 5px;
+  padding: 5px 10px;
+  padding-top: 2px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color-scheme: light dark;
+  display:flex;
+  flex-direction: column;
+  max-width: inherit;
+}
+
+.seedItemActive {
+  margin: 5px;
+  padding: 5px 10px;
+  padding-top: 2px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color-scheme: light dark;
+  display:flex;
+  flex-direction: column;
+  max-width: inherit;
+  background: #747bff;
+}
+
+.seedItem:hover {
+  background-color: #1a1a1a;
+}
+
+.boxVariation {
+  max-width: 80vw;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.itemVariation {
+  flex: 1 1 39%;
+  padding: 5px 10px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  color-scheme: light dark;
+  display:flex;
+  flex-direction: column;
+  width: auto;
+  /* Wild that this fixes it... */
+  min-width: 0;
+}
+
+.bigNumber {
+  overflow-wrap: break-word;
+  hyphens: auto;
+  flex-wrap: wrap;
+}
+
+.bigNumberAlt {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.bigNumberInput {
+  max-width: 90%;
+  width: 150px;
+}
+
+.bigNumberInputText {
+  hyphens: none;
+}
+
+.counts {
+  color: grey;
+}
+
+.keyCount {
+  max-width: 90vw;
+  overflow-wrap: break-word;
+  hyphens: auto;
+  overflow-wrap: break-word;
+  font-size: 2.2em;
+  font-weight: 800;
+}
+
+.legalDisclaimer {
+  color: #333333;
+  font-size: .5rem;
+}
+
+.buttonBox {
+  display: flex;
+  align-items: center;;
+  max-width: 90vw;
+  gap: 10px;
+}
