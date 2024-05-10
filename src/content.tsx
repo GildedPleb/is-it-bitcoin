@@ -2,1550 +2,253 @@ export const content = {
   allegedly: "Possibly",
   allegedlySlug:
     "Because we can not search the entire key space and key material found in this text to eliminate all private keys in any amount of reasonable time, we can not eliminate the possibility that this selection of text includes Bitcoin Private Keys adherent to the BIP39 standard. For all we know, you could be looking at thousands of Bitcoin!",
-  bankSecrecyAct: `1114
-
-PUBLIC LAW 91-507-OCT. 26, 1970
-
-[84 STAT.
-
-SEC. 7. The table of sections at the beginning of chapter 37 of title
-38 is amended by inserting immediately after
-"1818. Veterans who serve after January 31,1955."
-
-the following:
-"1819. Loans to purchase mobile homes and mobile home lots."
-Effective d a t e .
-
-SEC. 8. Section 5 of this Act shall become effective sixty days following the date of enactment.
-Approved October 23, 1970.
-
-Public Law 91-507
-October 26,1970
-JOINT RESOLUTION
-[ s . j . Res. 223] To authorize and request the President to issue a proclamation designating
-January 1971 as "National Blood Donor Month".
-N a t i o n a l Blood
-Donor Month.
-Proclamation.
-
-Resolved hy the Senate and House of Representatives of the United
-States of America in Congress assemhled^ That, in recognition of the
-vital contribution of the voluntary blood donor to medical care, the
-President is authorized and requested to issue a proclamation designating the month of January 1971 as "National Blood Donor Month",
-and calling upon the people of the United States and interested
-groups and organizations to observe such month with appropriate
-ceremonies and activities.
-Approved October 26, 1970.
-
-Public Law 91-508
-October 2 6 , 1970
-[H. R. 15073]
-
-F e d e r a l Deposit
-Insurance Act,
-amendments.
-
-AN ACT
-To amend the Federal Deposit Insurance Act to require insured banks to maintain certain records, to require that certain transactions in United States
-currency be reported to the Department of the Treasury, and for other purposes.
-
-Be it enacted hy the Senate and House of Representatives
-United States of America in Congress assembled^
-
-of the
-
-TITLE I—FINANCIAL EECORDKEEPING
-Chapter
-
-Sec.
-
-1. INSURED B A N K S AND INSURED INSTITUTIONS
-2. O T H E R F I N A N C I A L INSTITUTIONS
-
-101
-121
-
-Chapter 1.—INSURED B A N K S A N D I N S U R E D
-INSTITUTIONS
-Sec.
-
-101. Retention of records by insured banks.
-102. Retention of records by insured institutions.
-
-64 Stat. 8 9 3 ;
-81 Stat. 6 1 0 .
-12 u s e 1830,
-1831.
-
-§ 101. Retention of records by insured banks
-The Federal Deposit Insurance Act is amended (1) by redesignating
-sections 21 and 22 as 22 and 23, respectively, and (2) by inserting the
-following new section immediately after section 20:
-"SEC. 21. ( a ) ( 1 ) The Congress finds that adequate records maintained by insured banks have a high degree of usefulness in criminal,
-tax, and regulatory investigations and proceedings. The Congress
-further finds that microfilm or other reproductions and other records
-made by banks of checks, as well as records kept by banks of the
-identity of persons maintaining or authorized to act with respect to
-accounts therein, have been of particular value in this respect.
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-1115
-
-" (2) I t IS the purpose of this section to require the maintenance of
-appropriate types of records by insured banks in the United States
-where such records liave a high degree of usefulness in criminal, tax,
-or regulatory investigations or proceedings.
-"(b) Where the Secretary of the Treasury (referred to in this section as the 'Secretary') determines that the maintenance of appropriate
-types of records and other evidence by insured banks has a high degree
-of usefulness in criminal, tax, or regulatory investigations or proceedings, he shall prescribe regulations to carry out the purposes
-of this section.
-"(c) Each insured bank shall maintain such records and other evidence, in such form as the Secretary shall require, of the identity of
-each person having an account in the United States with the bank
-and of each individual authorized to sign checks, make withdrawals,
-or otherwise act with respect to any such account. The Secretary may Exemptions.
-make such exemptions from any requirement otherwise imposed under
-this subsection as are consistent with the purposes of this section.
-" ( d ) Each insured bank shall make, to the extent that the regulations of the Secretary so require—
-"(1) a microfilm or other reproduction of each check, draft, or
-similar instrument drawn on it and presented to it for payment;
-and
-"(2) a record of each check, draft, or similar instrument
-received by it for deposit or collection, together with an identification of the party for whose account it is to be deposited or collected, unless the bank has already made a record of the party's
-identity pursuant to subsection (c).
-" (e) Whenever any individual engages (whether as principal, agent,
-or bailee) in any transaction with an insured bank which is required
-to be reported or recorded under the Currency and I'oreign Transactions Reporting Act, the bank shall require and retain such evidence ^"^t, p. i n s .
-of the identity of that individual as the Secretary may prescribe as
-appropriate under the circumstances.
-"(f) In addition to or in lieu of the records and evidence otherwise
-referred to in this section, each insured bank shall maintain such
-records and evidence as the Secretary may prescribe to carry out the
-purposes of this section.
-"(g) Any type of record or evidence required under this section
-shall be retained for such period as the Secretary may prescribe for
-the type in question. Any period so prescribed shall not exceed six
-3^ears unless the Secretary determines, having regard for the purposes
-of this section, that a longer period is necessary in the case of a particular type of record or evidence.
-" ( h ) The Secretary shall include in his annual report to the Con- Report to congress information on his implementation of the authority conferred ^'•®^^*
-by this section and any similar authority with respect to recordkeeping
-or reporting requirements conferred by other provisions of law."
-
-1116
-
-48 Stat. 1255;
-
-81 Stat. 6 1 1 .
-12 u s e 1724.
-
-Ante, p. 1114.
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-§ 102. Retention of records by insured institutions
-Title I V of the National Housing Act is amended by adding at the
-end thereof the following new section:
-"SEC. 411. The Secretary of the Treasury shall prescribe such regulations as may be appropriate to carry out, with respect to insured
-institutions, the purposes set forth in section 21 of the Federal Deposit
-Insurance Act with respect to insured banks."
-Chapter 2.—0THER FINANCIAL INSTITUTIONS
-Sec.
-
-121.
-122.
-133.
-124.
-125.
-126.
-127.
-128.
-129.
-
-Congressional findings and purpose.
-Authority of Secretary with respect to reports on ownership and control.
-Authority of Secretary with respect to recordkeeping and procedures.
-Injunctions.
-Civil penalties.
-Criminal penalty.
-Additional criminal penalty in certain cases.
-Compliance.
-Administrative procedure.
-
-§ 121. Congressional findings and purpose
-(a) The Congress finds that certain records maintained by businesses engaged in the functions described in section 123(b) of this Act
-have a high degree of usefulness in criminal, tax, and regulatory investigations and proceedings. The Congress further finds that the
-power to require reports of changes in the ownership, control, and
-managements of types of financial institutions referred to in section
-122 of this Act may be necessary for the same purpose.
-(b) I t is the purpose of this chapter to require the maintenance of
-appropriate types of records and tne making of appropriate reports
-by such businesses in the United States where such records or reports
-have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings.
-§ 122. Authority of Secretary with respect to reports on ownership
-and control
-Where the Secretary determines that the making of appropriate
-reports by uninsured banks or uninsured institutions of any type with
-respect to their ownership, control, and managements and any changes
-therein has a high degree of usefulness in criminal, tax, or regulatory
-investigations or proceedings, he may by regulation require such banks
-or institutions to make such reports as he determines in respect of
-such ownership, control, and managements and changes therein.
-§ 123. Authority of Secretary with respect to recordkeeping and
-procedures
-(a) Where the Secretary determines that the maintenance of
-appropriate records and procedures by an^ uninsured bank or uninsured institution, or any person engaging in the business of carrying
-on in the United States any of the functions referred to in subsection
-(b) of this section, has a high degree of usefulness in criminal, tax,
-or regulatory^ investigations or proceedings, he may by regulation
-require such bank, institution, or person—
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-(1) to require, retain, or maintain, with respect to its functions as an uninsured bank or uninsured institution or its functions referred to in subsection ( b ) , any records or evidence of any
-type which the Secretary is authorized under section 21 of the
-Federal Deposit Insurance Act to require insured banks to require,
-retain, or maintain; and
-(2) to maintain procedures to assure compliance with requirements imposed under this chapter. For the purposes of any civil
-or criminal penalty, a separate violation of any requirement
-under this paragraph occurs with respect to each day and each
-separate office, branch, or place of business in which the violation
-occurs or continues.
-(b) The authority of the Secretary under this section extends to any
-person engaging in the business of carrying on any of the following
-functions:
-(1) Issuing or redeeming checks, money orders, travelers'
-checks, or similar instruments, except as an incident to the conduct of its own nonfinancial business.
-(2) Transferring
-funds
-or
-credits
-domestically
-or
-internationally.
-(3) Operating a currency exchange or otherwise dealing in
-foreign currencies or credits.
-(4) Operating a credit card system.
-(5) Performing such similar, related, or substitute functions
-for any of the foregoing or for banking as may be specified by the
-Secretary in regulations.
-§ 124. Injunctions
-Whenever it appears to the Secretary that any person has engaged,
-is engaged, or is about to engage in any acts or practices constituting a
-violation of any regulation under this chapter, he may in his discretion
-bring an action, in the proper district court of the United States or the
-proper United States court of any territory or other place subject to
-the jurisdiction of the United States, to enjoin such acts or practices,
-and upon a proper showing a permanent or temporary injunction or
-restraining order shall be granted without bond. Upon application of
-the Secretary, any such court may also issue mandatory injunctions
-commanding any person to comply with any regulation of the Secretary under this chapter.
-§ 125. Civil penalties
-(a) For each willful violation of any regulation under this chapter,
-the Secretary may assess upon any person to which the regulation
-applies, and, if such person is a partnership, corporation, or other
-entity, upon any partner, director, officer, or employee thereof who
-willfully participates in the violation, a civil penalty not exceeding
-$1,000.
-(b) I n the event of the failure of any person to pay any penalty
-assersed under this section, a civil action for the recovery thereof may,
-in the discretion of the Secretary, be brought in the name of the
-LTnited States.
-
-iii.ffiD'3f^ H =
-
-1117
-
-Ante,
-
-p . 1114.
-
-1118
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-§126. Criminal penalty
-Whoever willfully violates any regulation under this chapter shall
-be fined not more than $1,000 or imprisoned not more than one
-year, or both.
-§ 127. Additional criminal penalty in certain cases
-Whoever willfully violates any regulation under this chapter, secAnte, p. 1114. tiou 21 of the Federal Deposit Insurance Act, or section 411 of the
-Ante, p. 1116. National Housing Act, where the violation is committed in furtherance of the commission of any violation of Federal law punishable by
-imprisonment for more than one year, shall be fined not more than
-$10,000 or imprisoned not more than five years, or both.
-§ 128. Compliance
-The Secretary shall have the responsibility to assure compliance
-with the requirements of this title and may delegate such responsibility
-to the appropriate bank supervisory agency, or other supervisory
-agency.
-§ 129. Administrative procedure
-The administrative procedure and judicial review provisions of
-80 Stat. 381.
-subchapter I I of chapter 5 and chapter 7 of title 5, United States Code,
-5 use 551,701. gjjg^jj apply to all proceedings under this chapter, section 21 of the
-Federal Deposit Insurance Act, and section 411 of the National
-Housing Act.
-TITLE II—EEPORTS OF CURRENCY AND
-FOREIGN TRANSACTIONS
-Chapter
-1.
-2.
-3.
-4.
-
-Sec.
-
-GENEKAL PROVISIONS
-DOMESTIC CTJRBENCY TRANSACTIONS
-REPORTS OF EXPORTS AND IMPORTS OP MONETARY INSTRUMENTS
-FOREIGN TRANSACTIONS
-
-201
-221
-231
-241
-
-Chapter 1.—GENERAL PROVISIONS
-Sec.
-201.
-202.
-203.
-204.
-205.
-206.
-207.
-208.
-209.
-210.
-211.
-212.
-213.
-
-Citation of
-
-Short title.
-Purpose.
-Definitions and rules of construction.
-Regulations.
-Compliance.
-Exemptions.
-Civil penalty.
-Injunctions.
-Criminal penalty.
-Additional criminal penalty in certain cases.
-I m m u n i t y of w^itnesses.
-Availability of information to other Federal agencies.
-Administrative procedure.
-
-§201. Short title
-This title may be cited as the Currency and Foreign Transactions
-Reporting Act".
-§202. Purpose
-I t is tlie purpose of this title to require certain reports or records
-where such reports or records have a high degree of usefulness in
-criminal, tax, or regulatory investigations or proceedings.
-§203. Definitions and rules of construction
-(a) The definitions and rules of construction set forth in this section
-apply for the purposes of this title.
-(b) The term "Secretary" means the Secretary of the Treasury.
-(c) The term "person" includes natural persons, partnerships,
-trusts, estates, associations, corporations, and all entities cognizable
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-as legal personalities. The term also includes any governmental department or agency specified by the Secretary either for the purpose of
-this title generally or any particular requirement thereunder.
-(d) The term "United States", used in a geographical sense, includes the States and the District of Columbia, and to the extent the
-Secretary shall by regulation specify, either for the purposes of this
-title generally or any particular requirement thereunder, the Commonwealth of Puerto Rico, the possessions of the United States,
-United States military establishments, and United States diplomatic
-establishments.
-(e) The term "financial institution" means any person which does
-business in any one or more of the following capacities:
-(1) an insured bank as defined in section 3 of the Federal
-Deposit Insurance Act;
-(2) a commercial bank or trust company;
-(3) a private banker;
-(4) an agency or a branch within the United States of any
-foreign bank;
-(5) an insured institution as defined in section 401 of the National Housing Act;
-_
-_
-(6) a savings bank, building and loan association, credit union,
-industrial bank, or other thrift institution;
-(7) a broker or dealer registered with the Securities and Exchange Commission under the Securities Exchange Act of 1934;
-(8) a broker or dealer in securities or commodities;
-(9) an investment banker or investment company;
-(10) a currency exchange;
-(11) an issuer, redeemer or cashier of travelers'checks, checks,
-money orders, or similar instruments;
-(12) an operator of a credit card system;
-(13) an insurance company;
-(14) a dealer in precious metals, stones, or j ewels;
-(15) a pawnbroker;
-(16) a loan or finance company;
-(17) a travel agency;
-(18) a licensed transmitter of funds;
-(19) a telegraph company;
-(20) a Federal, State, or local government institution which
-performs any of the functions of any of the businesses listed
-above;or
-(21) any other ty^e of business or institution performing similar, related, or substitute functions specified by the Secretary by
-regulation for the purposes of the provision of this title to which
-the regulation relates.
-(f) The term "domestic", used with reference to institutions or
-agencies, limits the applicability of the provision wherein it appears
-to the performance by such institutions or agencies of functions within
-the United States.
-(g) The term "financial agency" means any person which acts in the
-capacity of a financial institution or in the capacity of a bailee,
-depository trustee, agent, or in any other similar capacity with respect
-to money, credit, securities, or gold or transactions therein, on behalf
-of any person other than a government, a monetary or financial authority when acting as such, or an international financial institution of
-which the United States is a member.
-(h) The term "foreign", used with reference to institutions or
-agencies, limits the applicabilitjr of the provision wherein it appears
-to the performance by such institutions or agencies of functions outside the United States.
-
-1119
-
-J^ suu 873^.
-
-48 Stat. 1255.
-^^ "^*^ ^^2'**
-js stat. m .
-
-1120
-
-81 Stat. 54.
-62 Stat. 749.
-
-.
-? 1
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-(i) References to this title or any provision thereof include regulations issued under this title or the provision thereof in question.
-(j) All reports required under this title and all records of any such
-reports are specifically exempted from disclosure under section 552 of
-title 5, United States Code.
-(k) For the purposes of section 1001 of title 18, United States Code,
-the contents of reports rec^uired under any provision of this title are
-statements and representations in matters within the jurisdiction of an
-agency of the United States.
-(1) The term "monetary instruments" means coin and currency of
-the United States, and in addition, such foreign coin and currencies,
-and such types of travelers' checks, bearer negotiable instruments,
-bearer investment securities, bearer securities, and stock with title passing upon delivery, or the equivalent thereof, as the Secretary may by
-regulation specify for the purposes of the provision of this title to
-w^hich the regulation relates.
-§204. Regulations
-The Secretary shall prescribe such regulations as he may deem
-appropriate to carry out the purposes of this title.
-§205. Compliance
-(a) The Secretary shall have the responsibility to assure compliance with the requirements of this title and may delegate such
-responsibility to the appropriate bank supervisory agency, or other
-supervisory agency.
-(b) The Secretary may by regulation require any class of domestic
-financial institutions to maintain such procedures as he may deem
-appropriate to assure compliance with the provisions of this title. For
-the purposes of both civil and criminal penalties for violations of this
-section, a separate violation shall be deemed to occur with respect to
-each day and each separate office, branch, or place of business in which
-the violation occurs or continues.
-§206. Exemptions
-The Secretary may make such exemptions from any requirement
-otherwise imposed under this title as he may deem appropriate. Any
-such exemption may be conditional or unconditional, by regulation,
-order, or licensing, or any combination thereof, and may relate to any
-particular transaction, to the type or amount of the transaction, to
-the party or parties or the classification of parties, or to any combination thereof. The Secretary may in his discretion, in any manner
-giving actual or constructive notice to the parties affected, revoke any
-exemption made under this section. Any such revocation shall remain
-in effect pending any judicial review.
-§207. Civil penalty
-(a) For each willful violation of this title, the Secretary may
-assess upon any domestic financial institution, and upon any partner,
-director, officer, or employee thereof who willfully participates in
-the violation, a civil penalty not exceeding $1,000.
-(b) I n the event of the failure of any person to pay any penalty
-assessed under this title, a civil action for the recovery thereof may,
-in the discretion of the Secretary, be brought in the name of the
-United States.
-:
-§208. Injunctions
-Whenever it appears to the Secretary that any person has engaged,
-is engaged, or is about to engage in any acts or practices constituting
-a violation of the provisions of this title, or of any order thereunder,
-he may in his discretion bring an action, in the proper district court
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26. 1970
-
-of the United States or the proper United States court of any territory
-or other place subject to the jurisdiction of the United States, to enjoin
-such acts or practices, and upon a proper showing a permanent or
-temporary injunction or restraining order shall be granted without
-bond. Upon application of the Secretary, any such court may also
-issue mandatory injunctions commanding any person to comply with
-the provisions of this title or any order of the Secretary made in
-purj/.uance thereof.
-§ 209. Criminal penalty
-Whoever willfully violates any provision of this title or any regulation under this title shall be fined not more than $1,000, or
-imprisoned not more than one year, or both.
-§210. Additional criminal penalty in certain cases
-Whoever willfully violates any provision of this title where the
-violation is—
-(1) committed in furtherance of the commission of any other
-violation of Federal law, or
-(2) committed as part of a pattern of illegal activity involving
-transactions exceeding $100,000 in any twelve-month period,
-shall be fined not more than $500,000 or imprisoned not more than five
-years, or both.
-§211. Immunity of witnesses
-Whenever a witness refuses on the basis of his privilege against
-self-incrimination, to testify or provide other information in a proceeding involving any violation of this title before or ancillary to—
-(1) acourtorgrand jury of the United States,
-(2) an agency of the United States, or
-(3) either House of Congress, a joint committee of the two
-Houses, or a committee or a subcommittee of either House,
-and the person presiding over the proceeding communicates to the
-witness an order requiring him to give testimony or provide other
-information, the witness may not refuse to comply with the order
-on the basis of his privilege against self-incrimination. No such testimony or other information so compelled under the order or evidence
-or other information which is obteined by the exploitation of such
-testimony may be used against the witness in any criminal case, except
-a prosecution for perjury, giving a false statement, or otherwise failing to comply with the order.
-§212, Availability of information to other Federal agencies
-The Secretary shall, upon such conditions and pursuant to such
-procedures as he mav by regulation prescribe, make any information
-set forth in reports filed pursuant to this title available for a purpose
-consistent with the provisions of this title to any other department or
-agency of the Federal Government on the request of the head of such
-department or agency.
-§213. Administrative procedure
-Subject to section 203 (j), the administrative procedure and judicial
-review provisions of subchapter I I of chapter 5 and chapter 7 of title
-5, United States Code, shall apply to all proceedings under this title.
-Chapter 2.~D0MESTIC CURRENCY TRANSACTIONS
-Sec.
-
-221. Reports of currency transactions required.
-222. Persons required to file reports.
-223. Reporting procedure.
-
-1121
-
-^.-^ ,-iin/.
-
->in'e, p. 1120.
-80 Stat. 381.
-5 u s e 551, 701.
-
-1122
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-§221. Reports of currency transactions required
-Transactions involving any domestic financial institution shall be
-reported to the Secretary at such time, in such manner, and in such
-detail as the Secretary may require if they involve the payment,
-receipt, or transfer of United States currency, or such other monetary
-instruments as the Secretary may specify, in such amounts, denominations, or both, or under such circumstances, as the Secretary shall by
-regulation prescribe.
-i§222. Persons required to file reports
-The report of any transaction required to be reported under this
-chapter shall be signed or otherwise made both by the domestic financial institution involved and by one or more of the other parties
-thereto or participants therein, as the Secretary may require. If any
-party to or participant in the transaction is not an individual actingonly for himself, the report shall identify the person or persons on
-whose behalf the transaction is entered into, and shall be made by the
-individuals acting as agents or bailees with respect thereto.
-§223. Reporting procedure
-(a) The Secretary may in his discretion designate domestic financial institutions, individually or by class, as agents of the United
-States to receive reports required under this chapter, except that an
-institution which is not insured, chartered, examined, or registered
-as such by any agency of the LTnited States may not be so designated
-without its consent. The Secretary may suspend or revoke any such
-designation for any violation of this Act, or section 21 of the Federal
-Ante, pp.1114, j)eposit lusurauce Act, or section 411 of the National Housing Act.
-1116.
-(b) Any person (other than an institution designated under subsection (a)) required to file a report under this chapter with respect
-to a transaction with a domestic financial institution shall file the
-report with that institution, except that (1) if the institution is not
-designated under subsection ( a ) , the report shall be filed as the Secretary shall prescribe, and (2) any such person may, at his election and
-in lieu of filing the report in the manner hereinabove prescribed, file
-the report with the Secretary. Domestic financial institutions designated under subsection (a) shall transmit reports filed with them, and
-shall file their own reports, as the Secretary shall prescribe.
-Chapter 3.—REPORTS OF EXPORTS AND IMPORTS
-OF MONETARY INSTRUMENTS
-Sec.
-231.
-232.
-233.
-234.
-235.
-
-Reports required.
-Forfeiture.
-Civil liability.
-Remission by the Secretary.
-Enforcement authority.
-
-§231. Reports required
-(a) Except as provided in subsection (c) of this section, whoever,
-whether as principal, agent, or bailee, or by an agent or bailee,
-knowingly—
-(1) transports or causes to be transported monetary instruments—
-(A) from any place within the United States to or through
-any place outside the United States, or
-(B) to any place within the United States from or through
-any place outside the United States, or
-(2) receives monetary instruments at the termination of their
-transportation to the United States from or through any place
-outside the United States
-in an amount exceeding $5,000 on any one occasion shall file a report or
-reports in accordance with subsection (b) of this section.
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-1123
-
-(b) Reports required under this section shall be filed at such times
-and places, and may contain such of the following information and any
-additional information, in such form and in such detail, as the Secretary may require:
-(1) The legal capacity in which the person filing the report is
-acting with respect to the monetary instruments transported.
-(2) The origin, destination, and route of the transportation.
-(3) Where the monetary instruments are not legally and beneficially owned by the person transporting the same, or are transported for any purpose other than the use in his own behalf of
-the person transporting the same, the identities of the person from
-whom the monetary instruments are received, or to whom they
-are to be delivered, or both.
-(4) The amounts and types of monetary instruments transported.
-(c) Subsection (a) does not apply to any common carrier of passengers in respect or monetary instruments in the possession of its
-passengers, nor to any common carrier of goods in respect of shipments
-of monetary instruments not declared to be such by the shipper.
-§232. Forfeiture
-(a) Any monetary instruments which are in the process of any transportation with respect to which any report required to be filed under
-section 231(1) either has not been filed or contains material omissions
-or misstatements are subject to seizure and forfeiture to the United
-States.
-(b) For the purpose of this section, monetary instruments transported by mail, by any common carrier, or by any messenger or bailee,
-are in process of transportation from the time tney are delivered into
-the possession of the postal service, common carrier, messenger, or
-bailee until the time they are delivered into or retained in the possession
-of the addressee or intended recipient or any agent of the addressee or
-intended recipient for purposes other than further transportation
-within, or across any border of, the United States.
-§233. Civil liability
-The Secretary may assess a civil penalty upon any person who fails
-to file any report required under section 231, or who files such a report
-containing any material omission or misstatement. The amount or the
-penalty shall not exceed the amount of the monetary instruments with
-respect to whose transportation the report was required to be filed. The
-liabilities imposed by this chapter are in addition to any other liabilities, civil or criminal, except that the liability under this section shall
-be reduced by any amount actually forfeited under section 232.
-§234. Remission by the Secretary
-The Secretary may in his discretion remit any forfeiture or penalty
-under this chapter in whole or in part upon such terms and conditions
-as he deems reasonable and just.
-§235. Enforcement authority
-(a) If the Secretary has reason to believe that monetary instru- j^ff.^Jl,'''^'^^'''"^"^'
-ments are in the process of transportation and with respect to which Issuance.
-a report required under section 231 has not been filed or contains
-material omissions or misstatements, he may apply to any court of
-competent jurisdiction for a search warrant. Upon a showing of probable cause, the court may issue a warrant authorizing the search of
-any or all of the following:
-(1) One or more designated persons.
-(2) One or more designated or described places or premises.
-(3) One or more designated or described letters, parcels,
-packages, or other physical objects.
-
-1124
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-(4) One or more designated or described vehicles.
-Any application for a search warrant pursuant to this section shall be
-accompanied by allegations of fact supporting the application.
-(b) This section is not in derogation of the authority of the
-Secretary under any other law.
-Chapter 4.—FOREIGN TRANSACTIONS
-Sec.
-
-241. Records and reports required.
-242. Classifications and requirements.
-
-1
-,?
-
-§241. Records and reports required
-
-t>isciosure.
-
-,. v,„.
-
-(a) The Secretary of the Treasury, having due regard for the need
-to avoid impeding or controlling the export or import of currency or
-other monetary instruments and having due regard also for the need
-to avoid burdening unreasonably persons who legitimately engage
-in transactions with foreign financial agencies, shall by regulation
-require any resident or citizen of the United States, or person in the
-United States and doing business therein, who engages in any transaction or maintains any relationship, directly or indirectly, on behalf of
-himself or another, with a foreign financial agency to maintain records
-or to file reports, or both, setting forth such of the following information, in such form and in such detail, as the Secretary may
-require:
-(1) The identities and addresses of the parties to the transaction or relationship.
-(2) The legal capacities in which the parties to the transaction
-or relationship are acting, and the identities of the real parties
-in interest if one or more of the parties are not acting solely as
-principals.
-(3) A description of the transaction or relationship including
-the amounts of money, credit, or other property involved.
-^j^^ ]^Q persou required to maintain records under this section shall
-be required to produce or otherwise disclose the contents of the records
-except in compliance with a subpena or summons duly authorized and
-issued or as may otherwise be required by law.
-§242. Classifications and requirements
-The Secretary may prescribe:
-(1) Any reasonable classification of persons subject to or
-exempt from any requirement imposed under section 241.
-(2) The foreign country or countries as to which any requirement imposed under section 241 applies or does not apply if, in
-the judgment of the Secretary, uniform applicability of any such
-requirement to all foreign countries is unnecessary or undesirable.
-(3) The magnitude of transactions subject to any requirement
-imposed under section 241.
-(4) Types of transactions subject to or exempt from^ any
-requirement imposed under section 241.
-(5) Such other matters as he may deem necessary to the application of this chapter.
-TITLE III—MARGIN REQUIREMENTS
-
-oo"*!*^!^';/-,^^'
-8 A S t 3 t » 4-9 2 •
-
-§ 301. Amendment of section 7 of the Securities Exchange Act of
-1934
-(a) Section 7 of the Securities Exchange Act of 1934 (15 U.S.C.
-"^^S) is amended by adding at the end thereof the following new
-1
-
-J•
-
-subsection:
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-1125
-
-" ( f ) (1) I t is unlawful for any United States person, or any foreign person controlled by a United States person or acting on behalf
-of or in conjunction with such person, to obtain, receive, or enjoy
-the beneficial use of a loan or other extension of credit from any lender
-(without regard to whether the lender's office or place of business is
-in a State or the transaction occurred in whole or in part within a
-State) for the purpose of (A) purchasing or carrying United States
-securities, or (B) purchasing or carrying within the United States of
-any other securities, if, under this section or rules and regulations prescribed thereunder, the loan or other credit transaction is prohibited
-or would be prohibited if it had been made or the transaction had
-otherwise occured in a lender's office or other place of business in a
-State.
-" (2) For the purposes of this subsection—
-" ( A ) The term 'United States person' includes a person which "united states
-is organized or exists under the laws of any State or, in the case
-of a natural person, a citizen or resident of the United States;
-a domestic estate; or a trust in which one or more of the foregoing persons has a cumulative direct or indirect beneficial interest in excess of 50 per centum of the value of the trust.
-" ( B ) The term 'United States security' means a security (other se"{i!'if *?, ^*^*^^
-than an exempted security) issued by a person incorporated
-under the laws of any State, or whose principal place of business is within a State.
-"(C) The term 'foreign person controlled by a United States "Foreign person
-person' includes any noncorporate entity in which United States unued"stlte^s ^
-persons directly or indirectly have more than a 50 per centum person."
-beneficial interest, and any corporation in which one or more
-United States persons, directly or indirectly, own stock possessing
-more than 50 per centum of the total combined voting power of
-all classes of stock entitled to vote, or more than 50 per centum
-^^ ^ ^
-of the total value of shares of all classes of stock.
-"(3) The Board of Governors of the Federal Reserve System may. Exemption.
-in its discretion and with due regard for the purposes of this section,
-by rule or regulation exempt any class of United States persons or
-.:•». i, foreign persons controlled by a United States person from the application of this subsection."
-(b) The amendment made by subsection (a) of this section does not
-affect the continuing validity of any rule or regulation under section
-7 of the Securities Exchange Act of 1934 in effect prior to the effective Ante, p. 1124.
-date of the amendment.
-TITLE I V — E F F E C T I V E D A T E S
-§401. Effective dates
-(a) Except as otherwise provided in this section, titles I, II, and
-I I I of this Act and the amendments made thereby take effect on the u^^g'^i'ij^* ^^^'*'
-first day of the seventh calendar month which begins after the date of
-'
-enactment.
-(b) The Secretary of the Treasury may by regulation provide that ^^^"'^"*^^"°7„J2
-Register.
-any provision of title I or II or any amendment made thereby shall Federal
-^'' """ ''""
-""^
-be effective on any date not earlier than the publication of the regulation in the Federal Register and not later than the first day of the
-thirteenth calendar month which begins after the date of enactment.
-Publication in
-(c) The Board of Governors of the Federal Reserve System may by Federal
-Register
-regulation provide that the amendment made by title I I I shall be
-effective on any date not earlier than the publication of the regulation
-in the Federal Register and not later than the first day of the thirteenth
-calendar month which begins after the date of enactment.
-
-1126
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-T I T L E V — P E O V I S I O N S R E L A T I N G TO C R E D I T CARDS
-15 u s e 1602.
-
-•'Adequate
-notice."
-Infra,
-
-"Credit card."
-
-''Accepted
-credit card."
-
-"Cardholder."
-
-"Card issuer.*'
-"Unauthorized
-use.»»
-
-15 u s e 1601
-note,
-15 u s e 1641.
-Prohibition.
-
-SEC. 501. Section 103 of the Truth in Lending Act (82 Stat. 146) is
-amended by redesignating subsections (j), ( k ) , a n d (1) as subsections
-(P)^ (q)i ^^^ ( r ) , respectively, and by adding after subsection (i) the
-following:
-"(j) The term 'adequate notice', as used in section 133, means a
-printed notice to a cardholder which sets forth the pertinent facts
-clearly and conspicuously so that a person against whom it is to
-operate could reasonably be expected to have noticed it and understood
-its meaning. Such notice may be given to a cardholder by printing
-the notice on any credit card, or on each periodic statement of account,
-issued to the cardholder, or by any other means reasonably assuring
-the receipt thereof by the cardholder.
-" ( k ) The term 'credit card' means any card, plate, coupon book or
-other credit device existing for the purpose of obtaining money,
-property, labor, or services on credit.
-"(1) The term 'accepted credit card' means any credit card which
-the cardholder has requested and received or has signed or has used,
-or authorized another to use, for the purpose of obtaining money,
-property, labor, or services on credit.
-" (m) The term 'cardholder' means any person to whom a credit card
-is issued or any person who has agreed with the card issuer to pay
-obligations arising from the issuance of a credit card to another
-person.
-" ( n ) The term 'card issuer' means any person who issues a credit
-card, or the agent of such person with respect to such card.
-"(o) The term 'unauthorized use', as used in section 133, means a
-use of a credit card by a person other than the cardholder who does
-not have actual, implied, or apparent authority for such use and from
-which the cardholder receives no benefit."
-SEC. 502. (a) The Truth in Lending Act (82 Stat. 146) is amended
-by adding after section 131 the following sections:
-"§ 132. Issuance of credit cards
-"No credit card shall be issued except in response to a request or
-application therefor. This prohibition does not apply to the issuance
-of a credit card in renewal of, or in substitution for, an accepted
-credit card.
-"§133. Liability of holder of credit card
-" ( a ) A cardholder shall be liable for the unauthorized use of a
-credit card only if the card is an accepted credit card, the liability is
-not in excess of $50, the card issuer gives adequate notice to the cardholder of the potential liability, the card issuer has provided the
-cardholder with a self-addressed, prestamped notification to be mailed
-by the cardholder in the event of the loss or theft of the credit card,
-and the unauthorized use occurs before the cardholder has notified
-the card issuer that an unauthorized use of the credit card has occurred
-or may occur as the result of loss, theft, or otherwise. Notwithstanding
-the foregoing, no cardholder shall be liable for the unauthorized use
-of any credit card which was issued on or after the effective date of
-this section, and, after the expiration of twelve months following such
-effective date, no cardholder shall be liable for the unauthorized use
-of any credit card regardless of the date of its issuance, unless (1) the
-conditions of liability specified in the preceding sentence are met, and
-(2) the card issuer has provided a method whereby the user of such
-card can be identified as the person authorized to use it. For the
-purposes of this section, a cardholder notifies a card issuer by taking
-such steps as may be reasonably required in the ordinary course of
-business to provide the card issuer with the pertinent information
-whether or not any particular officer, employee, or agent of the card
-issuer does in fact receive such information.
-
-84 STAT. ]
-
-1127
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-"(b) I n any action by a card issuer to enforce liability for the use of
-a credit card, the burden of proof is upon the card issuer to show that
-the use was authorized or, if the use was unauthorized, then the burden
-of proof is upon the card issuer to show that the conditions of liability
-for the unauthorized use of a credit card, as set forth in subsection ( a ) ,
-have been met.
-"(c) Nothing in this section imposes liability upon a cardholder for
-the unauthorized use of a credit card in excess of his liability for
-such use under other applicable law or under any agreement with
-the card issuer.
-" ( d ) Except as provided in this section, a cardholder incurs no
-liability from the unauthorized use of a credit card.
-"§134. Fraudulent use of credit card
-"Whoever, in a transaction affecting interstate or foreign commerce,
-uses any counterfeit, fictitious, altered, forged, lost, stolen, or fraudulently obtained credit card to obtain goods or services, or both, having
-a retail value aggregating $5,000 or more, shall be fined not more than
-$10,000 or imprisoned not more than five years, or both."
-(b) The table of contents of chapter 2 of the Truth in Lending
-Act is amended by adding at the end thereof the following:
-
-Penalty.
-
-82 Stat. 152.
-15 u s e 1631.
-
-"132. Issuance of credit cards.
-"133. Liability of holder of credit card,
-"134. F r a u d u l e n t use of credit card."
-
-SEC. 503. The amendments to the Truth in Lending Act made by
-this title become effective as follows:
-(1) Section 132 of such Act takes effect upon the date of enactment of this title.
-(2) Section 133 of such Act takes effect upon the expiration
-of 90 days after such date of enactment.
-(3) Section 134 of such Act applies to offenses committed on or
-after such date of enactment.
-
-Effective dates.
-
-T I T L E V I — P R O V I S I O N S R E L A T I N G TO C R E D I T
-REPORTING AGENCIES
-AMENDMENT OF CONSUMER CREDIT PROTECTION ACT
-
-SEC. 601. The Consumer Credit Protection Act is amended by adding at the end thereof the following new title:
-"TITLE VI—CONSUMER CREDIT REPORTING
-"Sec.
-"601.
-"602,
-"603.
-"604.
-"605.
-"606.
-"607,
-"608.
-"609.
-"610.
-"611.
-"612.
-"613.
-"614.
-"615.
-"616.
-"617.
-"618.
-"619.
-"620.
-"621.
-"622.
-
-Short title.
-Findings and purpose,
-Definitions a n d rules of construction.
-Permissible purposes of reports.
-Obsolete, information.
-Disclosure of investigative consumer reports,
-Compliance procedures.
-Disclosures to governmental agencies.
-Disclosure to consumers.
-Conditions of disclosure to consumers.
-Procedure in ease of disputed accuracy,
-Charges for certain disclosures.
-Public record information for employment purposes.
-Restrictions on investigative consumer reports.
-Requirements on users of consumer reports.
-Civil liability for willful noncompliance.
-Civil liability for negligent noncompliance.
-Jurisdiction of c o u r t s ; limitation of actions.
-Obtaining information under false pretenses.
-Unauthorized disclosures by oflScers or employees.
-Administrative enforcement.
-Relation to State laws.
-
-82 Stat. 146.
-15 u s e 1601
-note.
-
-1128
-Citation of
-title.
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-"§ 601. Short title
-"This title may be cited as the Fair Credit Reporting Act.
-"§602. Findings and purpose
-" (a) The Congress makes the following findings:
-"(1) The banking system is dependent upon fair and accurate
-credit reporting. Inaccurate credit reports directly impair the efficiency of the banking system, and unfair credit reporting methods
-undermine the public confidence which is essential to the continued
-functioning of the banking system.
-"(2) An elaborate mechanism has been developed for investigating
-and evaluating the credit worthiness, credit standing, credit capacity,
-character, and general reputation of consumers.
-"(3) Consumer reporting agencies have assumed a vital role in
-assembling and evaluating consumer credit and other information on
-consumers.
-"(4) There is a need to insure that consumer reporting agencies
-exercise their grave responsibilities with fairness, impartiality, and
-a respect for the consumer's right to privacy.
-"(b) I t is the purpose of this title to require that consumer reporting agencies adopt reasonable procedures for meeting the needs of
-commerce for consumer credit, personnel, insurance, and other information in a manner which is fair and equitable to the consumer,
-with regard to the confidentiality, accuracy, relevancy, and proper
-utilization of such information in accordance with the requirements
-of this title.
-"§603. Definitions and rules of construction
-" ( a ) Definitions and rules of construction set forth in this section
-are applicable for the purposes of this title.
-"(b) The term 'person' means any individual, partnership, corporation, trust, estate, cooperative, association, government or governmental subdivision or agency, or other entity.
-"(c) The term 'consumer' means an individual.
-" ( d ) The term 'consumer report' means any written, oral, or other
-communication of any information by a consumer reporting agency
-bearing on a consumer's credit worthiness, credit standing, credit
-capacity, character, general reputation, personal characteristics, or
-mode of living which is used or expected to be used or collected in
-whole or in part for the purpose of serving as a factor in establishing
-the consumer's eligibility for (1) credit or insurance to be used primarily for personal, family, or household purposes, or (2) employment purposes, or (3) other purposes authorized under section 604.
-The term does not include (A) any report containing information
-solely as to transactions or experiences between the consumer and
-the person making the report; (B) any authorization or approval of
-a specific extension of credit directly or indirectl^^ by the issuer of
-a credit card or similar device; or (C) any report in which a person
-who has been requested by a third party to make a specific extension
-of credit directly or indirectly to a consumer conveys his decision
-with respect to such request, if the third party advises the consumer
-of the name and address of the person to whom the request was made
-and such person makes the disclosures to the consumer required under
-Post, p. 1133. section 615.
-"(e) The term 'investigative consumer report' means a consumer
-report or portion thereof in which information on a consumer's
-character, general reputation, personal characteristics, or mode of living is obta,ined through personal interviews with neighbors, friends,
-or associates of the consumer reported on or with others with whom
-he is acquainted or who may have knowledge concerning any such
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-items of information. However, such information shall not include
-specific factual information on a consumer's credit record obtained
-directly from a creditor of the consumer or from a consumer reporting agency when such information was obtained directly from a
-creditor of the consumer or from the consumer.
-"(f) The term 'consumer reporting agency' means any person
-which, for monetary fees, dues, or on a cooperative nonprofit basis,
-regularly engages in whole or in part in the practice of assembling
-or evaluating consumer credit information or other information on
-consumers for the purpose of furnishing consumer reports to third
-parties, and which uses any means or facility of interstate commerce
-for the purpose of preparing or furnishing consumer reports.
-" ( g ) The term 'file, when used in connection with information on
-any consumer, means all of the information on that consumer recorded
-and retained by a consumer reporting agency regardless of how the
-information is stored.
-" ( h ) The term 'employment purposes' when used in connection with
-a consumer report means a report used for the purpose of evaluating
-a consumer for employment, promotion, reassignment or retention as
-an employee.
-"(i) The term 'medical information' means information or records
-obtained, with the consent of the individual to whom it relates, from
-licensed physicians or medical practitioners, hospitals, clinics, or other
-medical or medically related facilities.
-"§ 604. Permissible purposes of reports
-"A consumer reporting agency may furnish a consumer report under
-the following circumstances and no other:
-" (1) I n response to the order of a court having jurisdiction to issue
-such an order.
-"(2) I n accordance with the written instructions of the consumer
-to whom it relates.
-"(3) To a person which it has reason to believe—
-" (A) intends to use the information in connection with a credit
-transaction involving the consumer on whom the information is
-to be furnished and involving the extension of credit to, or
-review or collection of an account of, the consumer; or
-" ( B ) intends to use the information for employment purposes;
-or
-" ( C ) intends to use the information in connection with the
-underwriting of insurance involving the consumer; or
-" ( D ) intends to use the information in connection with a determination of the consumer's eligibility for a license or other benefit
-granted by a governmental instrumentality required by law to
-consider an applicant's financial responsibility or status; or
-" ( E ) otherwise has a legitimate business need for the information in connection with a business transaction involving the
-consumer.
-"§605. Obsolete information
-" ( a ) Except as authorized under subsection ( b ) , no consumer
-reporting agency may make any consumer report containing any of
-the following items of information:
-"(1) Bankruptcies which, from date of adjudication of the most
-recent bankruptcy, antedate the report by more than fourteen years.
-"(2) Suits and judgments which, from date of entr^r, antedate the
-report by more than seven years or until the governing statute of
-limitations has expired, whichever is the longer period.
-"(3) Paid tax liens which, from date of payment, antedate the
-report by more than seven years.
-
-1129
-
-1130
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-"(4) Accounts placed for collection or charged to profit and loss
-which antedate the report by more than seven years.
-"(5) Records of arrest, indictment, or conviction of crime which,
-from date of disposition, release, or parole, antedate the report by
-more than seven years.
-"(6) Any other adverse item of information which antedates the
-report by more than seven years.
-" ( b ) The provisions of subsection (a) are not applicable in the
-case of any consumer credit report to be used in connection with—
-"(1) a credit transaction involving, or which may reasonably
-be expected to involve, a principal amount of $50,000 or more;
-"(2) the underwriting of life insurance involving, or which
-may reasonably be expected to involve, a face amount of $50,000
-or more; or
-"(3) the employment of any individual at an annual salary
-which equals, or which may reasonably be expected to equal
-$20,000, or more.
-"§606. Disclosure of investigative consumer reports
-" ( a ) A person may not procure or cause to be prepared an investigative consumer report on any consumer unless—
-" (1) it is clearly and accurately disclosed to the consumer that
-an investigative consumer report including information as to his
-character, general reputation, personal characteristics, and mode
-of living, whichever are applicable, may be made, and such disclosure (A) is made in a writing mailed, or otherwise delivered,
-to the consumer, not later than three days after the date on which
-the report was first requested, and (B) includes a statement informing the consumer of his right to request the additional
-disclosures provided for under subsection (b) of this section; or
-" (2) the report is to be used for employment purposes for which
-the consumer has not specifically applied.
-"(b) Any person who procures or causes to be prepared an investigative consumer report on any consumer shall, upon written request
-made by the consumer within a reasonable period of time after the
-receipt by him of the disclosure required by subsection (a) (1), shall
-make a complete and accurate disclosure of the nature and scope of
-the investigation requested. This disclosure shall be made in a writing
-mailed, or otherwise delivered, to the consumer not later than five
-days after the date on which the request for such disclosure was
-received from the consumer or such report was first requested, whichever is the later.
-"(c) No person may be held liable for any violation of subsection
-(a) or (b) of this section if he shows by a preponderance of the
-evidence that at the time of the violation he maintained reasonable
-procedures to assure compliance with subsection (a) or (b).
-"§607. Compliance procedures
-" ( a ) Every consumer rej)orting agency shall maintain reasonable
-procedures designed to avoid violations of section 605 and to limit
-the furnishing of consumer reports to the purposes listed under
-section 604. These procedures shall require that prospective users of the
-information identify themselves, certify the purposes for which the
-information is sougnt, and certify that the information will be used
-for no other purpose. Every consumer reporting agency shall make a
-reasonable effort to verify the identity of a new prospective user and
-the uses certified by such prospective user prior to furnishing such user
-a consumer report. No consumer reporting agency may furnish a consumer report to any person if it has reasonable grounds for believing
-that the consumer report will not be used for a purpose listed in section
-604.
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-"(b) Whenever a consumer reporting agency prepares a consumer
-report it shall follow reasonable procedures to assure maximum possible accuracy of the information concerning the individual about whom
-the report relates.
-"§ 608. Disclosures to governmental agencies
-"Notwithstanding the provisions of section 604, a consumer reporting agency may furnish identifying information respecting any
-consumer, limited to his name, address, former addresses, places of
-employment, or former places of employment, to a governmental
-agency.
-"§609. Disclosures to consumers
-" ( a ) Every consumer reporting agency shall, upon request and
-proper identification of any consumer, clearly and accurately disclose
-to the consumer:
-"(1) The nature and substance of all information (except medical
-information) in its files on the consumer at the time of the request.
-"(2) The sources of the information; except that the sources of
-information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed : Provided^ That in the event an action is brovight under this
-title, such sources shall be available to the plaintiff under appropriate
-discovery procedures in the court in which the action is brought.
-" (3) The recipients of any consumer report on the consumer which
-it has furnished—
-" ( A ) for employment purposes within the two-year period
-preceding the request, and
-" ( B ) for any other purpose within the six-month period preceding the request.
-"(b) The requirements of subsection (a) respecting the disclosure
-of sources of information and the recipients of consumer reports do
-not apply to information received or consumer reports furnished prior
-to the effective date of this title except to the extent that the matter
-involved is contained in the files of the consumer reporting agency on
-that date.
-"§610. Conditions of disclosure to consumers
-" ( a ) A consumer repofting agency shall make the disclosures
-required under section 609 during normal business hours and on
-reasonable notice.
-" (b) The disclosures required under section 609 shall be made to the
-consumer—
-"(1) in person if he appears in person and furnishes proper
-identification; or
-"(2) by telephone if he has made a written request, with
-proper identification, for telej^hone disclosure and the toll charge,
-if any, for the telephone call is prepaid by or charged directly to
-the consumer.
-"(c) Any consumer reporting agency shall provide trained personnel to explain to the consumer any information furnished to him pursuant to section 609.
-" ( d ) The consumer shall be permitted to be accompanied by one
-other person of his choosing, who shall furnish reasonable identification. A consumer reporting agency may require the consumer to furnish a written statement granting permission to the consumer
-reporting agency to discuss the consumer's file in such person's
-presence.
-"(e) Except as provided in sections 616 and 617, no consumer may
-bring any action or proceeding in the nature of defamation, invasion of
-privacy, or negligence with respect to the reporting of information
-
-1131
-
-1132
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-against any consumer reporting agency, any user of information, or
-any person who furnishes information to a consumer reporting agency,
-based on information disclosed pursuant to section 609, 610, or 615,
-except as to false information furnished with malice or willful intent
-to injure such consumer.
-"§ 611. Procedure in case of disputed accuracy
-" (a) If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly
-conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time
-reinvestigate and record the current status of that information unless
-it has reasonable grounds to believe that the dispute by the consumer
-is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer
-reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in
-and of itself constitute reasonable grounds for believing the dispute is
-frivolous or irrelevant.
-"(b) If the reinvestigation does not resolve the dispute, the consumer may file a brief statement setting forth the nature of the dispute.
-The consumer reporting agency may limit such statements to not more
-than one hundred words if it provides the consumer with assistance in
-writing a clear summary of the dispute.
-"(c) Whenever a statement of a dispute is filed, unless there is
-reasonable grounds to believe that it is frivolous or irrevelant, the
-consumer reporting agency shall, in any subsequent consumer report
-containing the information in question, clearly note that it is disputed by the consumer and provide either the consumer's statement
-or a clear and accurate codification or summary thereof,
-" ( d ) Following any deletion of information which is found to be
-inaccurate or whose accuracy can no longer be verified or any notation
-as to disputed information, the consumer reporting agency shall, at
-the request of the consumer, furnish notification that the item has
-been deleted or the statement, codification or summary pursuant to
-subsection (b) or (c) to any person specifically designated by the
-consumer who has within two years prior thereto received a consumer report for employment purposes, or within six months prior
-thereto received a consumer report for any other purpose, which
-contained the deleted or disputed information. The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be
-made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received.
-"§ 612. Charges for certain disclosures
-"A consumer reporting agency shall make all disclosures pursuant
-to section 609 and furnish all consumer reports pursuant to section
-611(d) without charge to the consumer if, within thirty days after
-receipt by such consumer of a notification pursuant to section 615 or
-notification from a debt collection agency affiliated with such consumer reporting agency stating that the consumer's credit rating may
-be or has been adversely affected, the consumer makes a request under
-section 609 or 611(d). Otherwise, the consumer reporting agency
-may impose a reasonable charge on the consumer for making disclosure to such consumer pursuant to section 609, the charge for which
-shall be indicated to the consumer prior to making disclosure; and
-for furnishing notifications, statements, summaries, or codifications
-to person designated by the consumer pursuant to section 611(d), the
-charge for which shall be indicated to the consumer prior to furnish-
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-ing such information and shall not exceed the charge that the consumer reporting agency would impose on each designated recipient
-for a consumer report except that no charge may be made for notifying
-such persons of the deletion of information which is found to be
-inaccurate or which can no longer be verified.
-"§613. Public record information for employment purposes
-"A consumer reporting agency which furnishes a consumer report
-for employment purposes and which for that purpose compiles and
-reports items of information on consumers which are matters of
-public record and are likely to have an adverse effect upon a consumer's ability to obtain employment shall—
-"(1) at the time such public record information is reported to
-the user of such consumer report, notify the consumer of the fact
-that public record information is being reported by the consumer
-reporting agency, together with the name and address of the person to whom such information is being reported; or
-"(2) maintain strict procedures designed to insure that whenever public record information which is likely to have an adverse
-effect on a consumer's ability to obtain employment is reported
-it is complete and up to date. For purposes of this paragraph,
-items of public record relating to arrests, indictments, convictions, suits, tax liens, and outstanding judgments shall be considered up to date if the current public record status of the item
-at the time of the report is reported.
-"§614. Restrictions on investigative consumer reports
-"Whenever a consumer reporting agency prepares an investigative
-consumer report, no adverse information in the consumer report (other
-than information which is a matter of public record) may be included
-in a subsequent consumer report unless such adverse information has
-been verified in the process of making such subsequent consumer
-report, or the adverse information was received within the threemonth period preceding the date the subsequent report is furnished.
-"§615. Requirements on users of consumer reports
-" ( a ) Whenever credit or insurance for personal, family, or household purposes, or employment involving a consumer is denied or the
-charge for such credit or insurance is increased either wholly or partly
-because of information contained in a consumer report from a consumer reporting agency, the user of the consumer report shall so
-advise the consumer against whom such adverse action has been taken
-and supply the name and address of the consumer reporting agency
-making the report.
-"(b) Whenever credit for personal, family, or household purposes
-involving a consumer is denied or the charge for such credit is
-increased either wholly or partly because of information obtained
-from a person other than a consumer reporting agency bearing upon
-the consumer's credit worthiness, credit standing, credit capacity,
-character, general reputation, personal characteristics, or mode of
-living, the user of such information shall, within a reasonable period
-of time, upon the consumer's written request for the reasons for such
-adverse action received within sixty days after learning of such
-adverse action, disclose the nature of the information to the consumer. The user of such information shall clearly and accurately
-disclose to the consumer his right to make such written request at the
-time such adverse action is communicated to the consumer.
-" (c) No person shall be held liable for any violation of this section
-if he shows by a preponderance of the evidence that at the time of the
-alleged violation he maintained reasonable procedures to assure compliance with the provisions of subsections (a) and (b).
-
-1133
-
-1134
-
-38 Stat. 717;
-IS use 58*.
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-[84 STAT.
-
-"§616. Civil liability for willful noncompliance
-"Any consumer reporting agency or user of information which
-willfully fails to comply with any requirement imposed under this
-title with respect to any consumer is liable to that consumer in an
-a-mount equal to the sum of—
-" (1) any actual damages sustained by the consumer as a rt suit
-of the failure;
-" (2) such amount of punitive damages as the court may allow;
-and
-" (3) in the case of any successful action to enforce any liability
-under this section, the costs of the action together with reasonable
-attorney's fees as determined by the court.
-"§617. Civil liability for negligent noncompliance
-"Any consumer reporting agency or user of information which is
-negligent in failing to comply with any requirement imposed under
-this title with respect to any consumer is liable to that consumer in an
-amount equal to the sum of—
-"(1) any actual damages sustained by the consumer as a result
-of the failure;
-" (2) in the case of any successful action to enforce any liability
-under this section, the costs of the action together with reasonable
-attorney's fees as determined by the court.
-"§ 618. Jurisdiction of courts; limitation of actions
-"An action to enforce any liability created under this title may be
-brought in any appropriate United States district court without
-regard to the amount in controversy, or in any other court of competent jurisdiction, within two years from the date on which the liability
-arises, except that where a defendant has materially and willfully
-misrepresented any information required under this title to be disclosed to an individual and the information so misrepresented is material to the establishment of the defendant's liability to that
-individual under this title, the action may be brought at any time
-within two years after discovery by the individual of the
-misrepresentation.
-"§ 619. Obtaining information under false pretenses
-"Any person who knowingly and willfully obtains information on a
-consumer from a consumer reporting agency under false pretenses
-shall be fined not more than $5,000 or imprisoned not more than
-one year, or both.
-"§620. Unauthorized disclosures by officers or employees
-"Any officer or employ> of a consumer reporting agency who knowingly and willfully provides information concerning an individual
-from the agency's files to a person not authorized to receive that information shall be fined not more than $5,000 or imprisoned not more
-than one year, or both.
-"§ 621. Administrative enforcement
-" ( a ) Compliance with the requirements imposed under this title
-shall be enforced under the Federal Trade Commission Act by the
-Federal Trade Commission with respect to consumer reporting agencies and all other persons subject thereto, except to the extent that
-enforcement of the requirements imposed under this title is specifically
-committed to some other government agency under subsection (b)
-hereof. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act, a violation of any requirement or prohibition imposed
-
-84 STAT. ]
-
-PUBLIC LAW 91-508-OCT. 26, 1970
-
-1135
-
-under this title shall constitute an unfair or deceptive act or practice in commerce in violation of section 5(a) of the Federal
-Trade Commission Act and shall be subject to enforcement by ^f use 45^^'
-the Federal Trade Commission under section 5(b) thereof with 52 stat. 11*2.
-respect to any consumer reporting agency or person subject to
-enforcement by the Federal Trade Commission pursuant to this subsection, irrespective of whether that person is engaged in commerce
-or meets any other jurisdictional tests in the Federal Trade Commission Act. The Federal Trade Commission shall have such procedural,
-investigative, and enforcement powers, including the power to issue
-procedural rules in enforcing compliance with the requirements
-imposed under this title and to require the filing of reports, the production of documents, and the appearance of witnesses as though the
-applicable terms and conditions of the Federal Trade Commission Act
-were part of this title. Any person violating any of the provisions of
-this title shall be subject to the penalties and entitled to the privileges
-and immunities provided in the Federal Trade Commission Act as
-though the applicable terms and provisions thereof were part of this
-title.
-"(b) Compliance with the requirements imposed under this title
-with respect to consumer reporting agencies and persons who use
-consumer reports from such agencies shall be enforced under—
-"(1) section 8 of the Federal Deposit Insurance Act, in the 64 stat. 879;
-case of:
-^
-?054?*''°'''
-" (A) national banks, by the Comptroller of the Currency; 12 use isis.
-" ( B ) member banks of the Federal Reserve System (other
-than national banks), by the Federal Reserve Board; and
-" ( C ) banks insured by the Federal Deposit Insurance
-Corporation (other than members of the Federal Reserve
-System), by the Board of Directors of the Federal Deposit
-Insurance Corporation.
-"(2) section 5(d) of the Home Owners Loan Act of 1933, so stat. 1028.
-section 407 of the National Housing Act, and sections 6(i) and 17 go stau Voa'e*.
-of the Federal Home Loan Bank Act, by the Federal Home Loan 12 use* 1730.'
-Bank Board (acting directly or through the Federal Savings and 69*513^6*40^^'
-Loan Insurance Corporation), in the case of any institution sub- 12 use 14*26,
-ject to any of those provisions;
-^"^37.
-"(3) the Federal Credit Union Act, by the Administrator of 73 stat. 628;
-the National Credit Union Administration with respect to any ^"2^'u^^* 175u^'**
-Federal credit union;
-"(4) the Acts to regulate commerce, by the Interstate Commerce Commission with respect to any common carrier subject
-to those A c t s ;
-
-49 u s e 1 et sea.
-
-" (5) the Federal Aviation Act of 1958, by the Civil Aeronautics 72 stat. 731.
-Board with respect to any air carrier or foreign air carrier subject note.
-to that Act; and
-"(6) the Packers and Stockyards Act, 1921 (except as pro- 42 stat. 159.
-vided in section 406 of that Act), by the Secretary of Agriculture 7 use isi.
-With respect to any activities subject to that Act.
-7 use'226,227.
-"(c) For the purpose of the exercise by any agency referred to in
-subsection (b) of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this title shall
-be deemed to be a violation of a requirement imposed under that A ct.
-I n addition to its powers under any provision of law specifically
-referred to in subsection (b), each of the agencies referred to in that
-subsection may exercise, for the purpose of enforcing compliance with
-any requirement imposed under this title any other authority conferred
-on it by law.
-
-1136
-
-PUBLIC LAW 91-509-OCT. 26, 1970
-
-[84 STAT.
-
-"§622. Relation to State laws
-"This title does not annul, alter, affect, or exempt any person subject
-to the provisions of this title from complying with the laws of any
-State with respect to the collection, distribution, or use of any information on consumers, except to the extent that those laws are inconsistent
-with any provision of this title, and then only to the extent of the
-inconsistency."
-E F r E C T I \ ^ DATE
-82 Stat. 167.
-
-SEC. 602. Section 504 of the Consumer Credit Protection Act is
-amended by adding at the end thereof the following new subsection:
-" ( d ) Title V I takes effect upon the expiration of one hundred and
-eighty days folloAving the date of its enactment."
-Approved October 26, 1970.
-
-Public Law 91-509
-October 2 6 , 1970
-[S.2695]
-
-Policemen and
-Firemen's Retirement and D i s a b i l ity Act Amendments of 1970.
-Definitions.
-71 Stat. 3 9 1 .
-
-Deductions.
-71 Stat. 3 9 3 ;
-72 Stat. 6 8 6 .
-
-AN ACT
-To provide for the retirement of officers and members of the Metropolitan Police
-force, the Fire Department of the District of Columbia, the United States
-Park Police force, the Executive Protective Service, and of certain officers
-and members of the United States Secret Service, and for other purposes.
-
-Be it enacted hy the Senate and House of Representatives of the
-United States of America in Congress asserribled^ That section 12 of
-the Act of September 1,1916 (39 Stat. 718), as amended (D.C. Code,
-sec. 4-521 et seq.) is amended as follows:
-(1) Paragraph (4) of subsection (a) of such section (D.C. Code,
-sec. 4-521) is amended to read as follows:
-"(4) The term 'widower' means the surviving husband of a member who was married to such individual while she was a member.".
-(2) Paragraph (5) of subsection (a) of such section (D.C. Code,
-sec. 4-521) IS amended to read as follows:
-"(5) (A) The term 'child' means an unmarried child, including (i)
-an adopted child, and (ii) a stepchild or recognized natural child who
-lives with the member in a regular parent-child relationship, under
-the age of eighteen years, or such unmarried child regardless of age
-who, because of physical or mental disability incurred before the age
-of eighteen, is incapable of self-support.
-" ( B ) The term 'student child' means an unmarried child who is a
-student between the ages of eighteen and twenty-two years, inclusive,
-and who is regularly pursuing a full-time course of study or training
-in residence or in a high school, trade school, technical or vocational
-institute, junior college, college, university, or comparable recognized
-educational institution.".
-(3) Suhsection (d) of such section (D.C. Code, sec. 4-524) is
-amended as follows:
-(A) Paragraph (1) of such subsection is amended to read as follows:
-"(1) On and after the first day of the first pay period which begins
-on or after the effective date of the Policemen and Firemen's Retirement and Disability Act Amendments of 1970 there shall be deducted
-and withheld from each member's basic salary an amount equal to 7
-per centum of such basic salary. Such deductions and withholdings
-shall be paid to the Collector of Taxes of the District of Columbia, and
-shall be deposited in the Treasury to the credit of the District of
-Columbia.".
-(B) Paragraph (3) of such subsection is amended by inserting
-
-`,
   canItHaveBitcoin: "Can this text contain Bitcoin?",
+  doesItHaveBitcoin: "Does this text contain Bitcoin?",
+  goodIdea: "Is it a good idea to use these seeds to actually store bitcoin?",
+  header: "Is it Bitcoin?",
+  improbable: "Not For Much Longer",
+  improbableSlug:
+    "Because this text can contain a valid seed phrase, but can be guessed in a few years or less on a GPU rig, if there is any bitcoin here, it wont be here for long.",
+  loading: "Loading...",
+  no: "No",
+  noExplain:
+    "This text can not contain any bitcoin according to the BIP39 standard.",
+  noSlug:
+    "Because the smallest Bitcoin seed phrase must be at least 12 words long, we can conclude definitively that this text does not include a Bitcoin private key adherent to the BIP39 standard.",
+  notGoodIdea:
+    "Probably not. If an attacker knows the source text above and knows it contains bitcoin, that may represent a significant advantage for an attacker. When generating a seed it is considered best practice to choose from the widest possible entropy. On top of this, valid seed phrases contain a check-sum. This means that you can not simply choose a seed phrase you like, it must first be valid. So, unless the text above has all 2048 words in the BIP39 standard, it draws from less entropy and is less secure. Generate seeds offline using entropy derived from non-computer random chance (like dice rolls).",
+  privateKeyCount: "Maximum Potential Bitcoin Private Keys",
+  process: "Process Text",
+  processBSA: "Bank Secrecy Act",
+  processConstitution: "The United States Constitution",
+  processDigital: "Digital Asset Anti-Money Laundering Act of 2023",
+  processPro111: "Proverbs 11:1",
+  processSermon: "Some Beatitudes",
+
+  resultsText: "Valid BIP39 Words Extracted From Text",
+  securityAnalysis: "How Long Would It Take To Sweep All Keys?",
+  securityBlurb:
+    'a "key sweep" is akin to guessing a password and gaining full access to an account. It means someone else now has the ability to spend the bitcoin at those keys. To sweep "all keys" means someone has the ability to spend every possible bitcoin in the space at every possible key. Sweep "All Keys" is very different from and much harder than "Sweep ONE key"',
+  seedGeneratorText: "Generate Valid Seed Phrases From This Text",
+  seedIsTransmitting:
+    "If you would like to assert that this text does indeed contain bitcoin, press \"Start\" below to generate valid keys from the seed words above. The words are first shuffled in secure-random order on your local machine--it's not much, but it's better than document order, and then all combinations are iteratively tried. The each iteration is then validated to see if it indeed passes all seed requirements before being rejected or displayed. Use any generated seed phrase below to restore a Bitcoin wallet, generate an address, and send Bitcoin to that address. Upon confirmation, the text will then indeed verifiably contain bitcoin, and that bitcoin is accessible to anyone who can read the text, and find the key.",
+  triesPerSecond: " sweeps/second:",
+  yes: "Yes",
+  yesExplain:
+    "This text can contain any valid amount of Bitcoin according to the BIP39 standard.",
+};
+
+export const extendedContent = {
+  bankSecrecyAct: `SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS
+  § 5311. Declaration of purpose
+  It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
+  (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, §358(a), Oct. 26, 2001, 115 Stat. 326.)
+  The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
+  ‘‘(3) FATF’s Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terrorist financing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
+  ‘‘(4) In March 2004, the IMF and IBRD Boards agreed to make permanent a pilot program of collaboration with the FATF to assess global compliance with the FATF Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing. As a result, anti-money laundering (AML) and combating the financing of terrorism (CFT) assessments are now a regular part of their Financial Sector Assessment Program (FSAP) and Offshore Financial Center assessments, which provide for a comprehensive analysis of the strength of a jurisdiction’s financial system. These reviews assess potential systemic vulnerabilities, consider sectoral development needs and priorities, and review the state of implementation of and compliance with key financial codes and regulatory standards, among them the AML and CFT standards.
+  ‘‘(5) To date, 70 FSAPs have been conducted, with over 24 of those incorporating AML and CFT assessments. The international financial institutions (IFIs), the FATF, and the FATF-style regional bodies together are expected to assess AML and CFT regimes in up to 40 countries or jurisdictions per year. This will help countries and jurisdictions identify deficiencies in their AML and CFT regimes and help focus technical assistance efforts.
+  ‘‘(6) Technical assistance programs from the United States and other nations, coordinated with the Department of State and other departments and agencies, are playing an important role in helping countries and jurisdictions address shortcomings in their AML and CFT regimes and bringing their regimes into conformity with international standards. Training is coordinated within the United States Government, which leverages multilateral organizations and bodies and international financial institutions to internationalize the conveyance of technical assistance.
+  ‘‘(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as part of the IFIs’ work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
+  ‘‘(b) SENSE OF CONGRESS REGARDING SUCCESS IN MULTILATERAL ORGANIZATIONS.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
+  ‘‘SEC. 7702. DEFINITIONS.
+  ‘‘In this subtitle [subtitle G (§§7701–7704) of title VII
+  of Pub. L. 108–458, amending sections 262o–2 and 262r–4 of Title 22, Foreign Relations and Intercourse]—
+  ‘‘(1) the term ‘international financial institutions’ has the same meaning as in section 1701(c)(2) of the International Financial Institutions Act [22 U.S.C. 262r(c)(2)];
+  ‘‘(2) the term ‘Financial Action Task Force’ means the international policy-making and standard-setting body dedicated to combating money laundering and terrorist financing that was created by the Group of Seven in 1989; and
+  ‘‘(3) the terms ‘Interagency Paper on Sound Practices to Strengthen the Resilience of the U.S. Financial System’ and ‘Interagency Paper’ mean the interagency paper prepared by the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, and the Securities and Exchange Commission that was announced in the Federal Register on April 8, 2003.
+  ‘‘SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
+  ‘‘The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and to recommend to the Secretary improved or new standards, as necessary.’’
+  INTERNATIONAL MONEY LAUNDERING ABATEMENT AND FINANCIAL ANTI-TERRORISM ACT OF 2001; FINDINGS AND PURPOSES
+  Pub. L. 107–56, title III, §302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, §6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
+  ‘‘(a) FINDINGS.—The Congress finds that—
+  ‘‘(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citi-
+  zens;
+  ‘‘(2) money laundering, and the defects in financial
+  transparency on which money launderers rely, are critical to the financing of global terrorism and the provision of funds for terrorist attacks;
+  ‘‘(3) money launderers subvert legitimate financial mechanisms and banking relationships by using them as protective covering for the movement of criminal proceeds and the financing of crime and terrorism, and, by so doing, can threaten the safety of United States citizens and undermine the integrity of United States financial institutions and of the global financial and trading systems upon which prosperity and growth depend;
+  ‘‘(4) certain jurisdictions outside of the United States that offer ‘offshore’ banking and related facilities designed to provide anonymity, coupled with weak financial supervisory and enforcement regimes, provide essential tools to disguise ownership and movement of criminal funds derived from, or used to commit, offenses ranging from narcotics trafficking, terrorism, arms smuggling, and trafficking in human beings, to financial frauds that prey on law-abiding citizens;
+  ‘‘(5) transactions involving such offshore jurisdictions make it difficult for law enforcement officials and regulators to follow the trail of money earned by criminals, organized international criminal enterprises, and global terrorist organizations;
+  ‘‘(6) correspondent banking facilities are one of the banking mechanisms susceptible in some circumstances to manipulation by foreign banks to permit the laundering of funds by hiding the identity of real parties in interest to financial transactions;
+  ‘‘(7) private banking services can be susceptible to manipulation by money launderers, for example corrupt foreign government officials, particularly if those services include the creation of offshore accounts and facilities for large personal funds transfers to channel funds into accounts around the globe;
+  ‘‘(8) United States anti-money laundering efforts are impeded by outmoded and inadequate statutory provisions that make investigations, prosecutions, and forfeitures more difficult, particularly in cases in which money laundering involves foreign persons, foreign banks, or foreign countries;
+  ‘‘(9) the ability to mount effective counter-measures to international money launderers requires national, as well as bilateral and multilateral action, using tools specially designed for that effort; and
+  ‘‘(10) the Basle Committee on Banking Regulation and Supervisory Practices and the Financial Action Task Force on Money Laundering, of both of which the United States is a member, have each adopted international anti-money laundering principles and recommendations.
+  ‘‘(b) PURPOSES.—The purposes of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title] are—
+  ‘‘(1) to increase the strength of United States measures to prevent, detect, and prosecute international money laundering and the financing of terrorism;
+  ‘‘(2) to ensure that—
+  ‘‘(A) banking transactions and financial relation-
+  ships and the conduct of such transactions and relationships, do not contravene the purposes of subchapter II of chapter 53 of title 31, United States Code, section 21 of the Federal Deposit Insurance Act [12 U.S.C. 1829b], or chapter 2 of title I of Public Law 91–508 (84 Stat. 1116) [12 U.S.C. 1951 et seq.], or facilitate the evasion of any such provision; and
+  ‘‘(B) the purposes of such provisions of law continue to be fulfilled, and such provisions of law are effectively and efficiently administered;
+  ‘‘(3) to strengthen the provisions put into place by
+  the Money Laundering Control Act of 1986 (18 U.S.C. 981 note) [see Short Title of 1986 Amendment note set out under section 981 of Title 18, Crimes and Criminal Procedure], especially with respect to crimes by nonUnited States nationals and foreign financial institutions;
+  ‘‘(4) to provide a clear national mandate for subjecting to special scrutiny those foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that pose particular, identifiable opportunities for criminal abuse;
+  ‘‘(5) to provide the Secretary of the Treasury (in this title referred to as the ‘Secretary’) with broad discretion, subject to the safeguards provided by the Administrative Procedure Act under title 5, United States Code [5 U.S.C. 551 et seq., 701 et seq.], to take measures tailored to the particular money laundering problems presented by specific foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts;
+  ‘‘(6) to ensure that the employment of such measures by the Secretary permits appropriate opportunity for comment by affected financial institutions;
+  ‘‘(7) to provide guidance to domestic financial institutions on particular foreign jurisdictions, financial institutions operating outside of the United States, and classes of international transactions or types of accounts that are of primary money laundering concern to the United States Government;
+  ‘‘(8) to ensure that the forfeiture of any assets in connection with the anti-terrorist efforts of the
+  United States permits for adequate challenge consistent with providing due process rights;
+  ‘‘(9) to clarify the terms of the safe harbor from civil liability for filing suspicious activity reports;
+  ‘‘(10) to strengthen the authority of the Secretary to issue and administer geographic targeting orders, and to clarify that violations of such orders or any other requirement imposed under the authority contained in chapter 2 of title I of Public Law 91–508 [12 U.S.C. 1951 et seq.] and subchapter II of chapter 53 of title 31, United States Code, may result in criminal and civil penalties;
+  ‘‘(11) to ensure that all appropriate elements of the financial services industry are subject to appropriate requirements to report potential money laundering transactions to proper authorities, and that jurisdictional disputes do not hinder examination of compliance by financial institutions with relevant reporting requirements;
+  ‘‘(12) to strengthen the ability of financial institutions to maintain the integrity of their employee population; and
+  ‘‘(13) to strengthen measures to prevent the use of the United States financial system for personal gain by corrupt foreign officials and to facilitate the repatriation of any stolen assets to the citizens of countries to whom such assets belong.’’
+  FOUR-YEAR CONGRESSIONAL REVIEW; EXPEDITED CONSIDERATION
+  Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: ‘‘That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.’’, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
+  COOPERATIVE EFFORTS TO DETER MONEY LAUNDERING
+  Pub. L. 107–56, title III, §314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, §6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
+  ‘‘(a) COOPERATION AMONG FINANCIAL INSTITUTIONS, REGULATORY AUTHORITIES, AND LAW ENFORCEMENT AUTHORITIES.—
+  ‘‘(1) REGULATIONS.—The Secretary [of the Treasury] shall, within 120 days after the date of enactment of this Act [Oct. 26, 2001], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in, or reasonably suspected based on credible evidence of engaging in, terrorist acts or money laundering activities.
+  ‘‘(2) COOPERATION AND INFORMATION SHARING PROCEDURES.—The regulations adopted under paragraph (1) may include or create procedures for cooperation and information sharing focusing on—
+  ‘‘(A) matters specifically related to the finances of terrorist groups, the means by which terrorist groups transfer funds around the world and within the United States, including through the use of charitable organizations, nonprofit organizations, and nongovernmental organizations, the extent to which financial institutions in the United States are unwittingly involved in such finances, and the extent to which such institutions are at risk as a result;
+  ‘‘(B) the relationship, particularly the financial relationship, between international narcotics traffickers and foreign terrorist organizations, the extent to which their memberships overlap and engage in joint activities, and the extent to which they cooperate with each other in raising and transferring funds for their respective purposes; and
+  ‘‘(C) means of facilitating the identification of accounts and transactions involving terrorist groups and facilitating the exchange of information concerning such accounts and transactions between financial institutions and law enforcement organizations.
+  ‘‘(3) CONTENTS.—The regulations adopted pursuant to paragraph (1) may—
+  ‘‘(A) require that each financial institution designate 1 or more persons to receive information concerning, and monitor accounts of, individuals, entities, and organizations identified pursuant to paragraph (1); and
+  ‘‘(B) further establish procedures for the protection of the shared information, consistent with the capacity, size, and nature of the financial institution to which the particular procedures apply.
+  ‘‘(4) RULE OF CONSTRUCTION.—The receipt of information by a financial institution pursuant to this section shall not relieve or otherwise modify the obligations of the financial institution with respect to any other person or account.
+  ‘‘(5) USE OF INFORMATION.—Information received by a financial institution pursuant to this section shall not be used for any purpose other than identifying and reporting on activities that may involve terrorist acts or money laundering activities.
+  ‘‘(b) COOPERATION AMONG FINANCIAL INSTITUTIONS.— Upon notice provided to the Secretary, 2 or more financial institutions and any association of financial institutions may share information with one another regarding individuals, entities, organizations, and countries suspected of possible terrorist or money laundering activities. A financial institution or association that transmits, receives, or shares such information for the purposes of identifying and reporting activities that may involve terrorist acts or money laundering activities shall not be liable to any person under any law or regulation of the United States, any constitution, law, or regulation of any State or political subdivision thereof, or under any contract or other legally enforceable agreement (including any arbitration agreement), for such disclosure or for any failure to provide notice of such disclosure to the person who is the subject of such disclosure, or any other person identified in the disclosure, except where such transmission, receipt, or sharing violates this section or regulations promulgated pursuant to this section.
+  ‘‘(c) RULE OF CONSTRUCTION.—Compliance with the provisions of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title] requiring or allowing financial institutions and any association of financial institutions to disclose or share information regarding individuals, entities, and organizations engaged in or suspected of engaging in terrorist acts or money laundering activities shall not constitute a violation of the provisions of title V of the Gramm-Leach-Bliley Act (Public Law 106–102) [15 U.S.C. 6801 et seq.].
+  ‘‘(d) REPORTS TO THE FINANCIAL SERVICES INDUSTRY ON SUSPICIOUS FINANCIAL ACTIVITIES.—At least semiannually, the Secretary shall—
+  ‘‘(1) publish a report containing a detailed analysis identifying patterns of suspicious activity and other investigative insights derived from suspicious activity reports and investigations conducted by Federal, State, and local law enforcement agencies to the extent appropriate; and
+  ‘‘(2) distribute such report to financial institutions (as defined in section 5312 of title 31, United States Code).’’
+  REPORT AND RECOMMENDATION ON LEGISLATIVE ACTION ON INTERNATIONAL COUNTER MONEY LAUNDERING PROVISIONS
+  Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: ‘‘Not later than 30 months after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle [subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.’’
+  INTERNATIONAL COOPERATION ON IDENTIFICATION OF ORIGINATORS OF WIRE TRANSFERS
+  Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘The Secretary [of the Treasury] shall—
+  ‘‘(1) in consultation with the Attorney General and the Secretary of State, take all reasonable steps to encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries, with the information to remain with the transfer from its origination until the point of disbursement; and
+  ‘‘(2) report annually to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on—
+  ‘‘(A) progress toward the goal enumerated in paragraph (1), as well as impediments to implementation and an estimated compliance rate; and
+  ‘‘(B) impediments to instituting a regime in which all appropriate identification, as defined by the Secretary, about wire transfer recipients shall be included with wire transfers from their point of origination until disbursement.’’
+  CRIMINAL PENALTIES
+  Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+  ‘‘(1) being influenced in the performance of any official act;
+  ‘‘(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
+  ‘‘(3) being induced to do or omit to do any act in violation of the official duty of such official or person, shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.’’
+  REPORT ON INVESTMENT COMPANIES
+  Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, §6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
+  ‘‘(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
+  ‘‘(2) DEFINITION.—For purposes of this subsection, the term ‘investment company’—
+  ‘‘(A) has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3); and ‘‘(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 (15 U.S.C.
+  80a–3(c)), would be an investment company.
+  ‘‘(3) ADDITIONAL RECOMMENDATIONS.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection.
+  ‘‘(4) BENEFICIAL OWNERSHIP OF PERSONAL HOLDING COMPANIES.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.’’
+  REPORT ON NEED FOR ADDITIONAL LEGISLATION RELATING TO INFORMAL MONEY TRANSFER SYSTEMS
+  Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: ‘‘Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.’’
+  UNIFORM STATE LICENSING AND REGULATION OF CHECK CASHING, CURRENCY EXCHANGE, AND MONEY TRANSMITTING BUSINESSES
+  Pub. L. 103–325, title IV, §407, Sept. 23, 1994, 108 Stat. 2247, provided that:
+  ‘‘(a) UNIFORM LAWS AND ENFORCEMENT.—For purposes of preventing money laundering and protecting the payment system from fraud and abuse, it is the sense of the Congress that the several States should—
+  ‘‘(1) establish uniform laws for licensing and regulating businesses which—
+  ‘‘(A) provide check cashing, currency exchange, or money transmitting or remittance services, or issue or redeem money orders, travelers’ checks, and other similar instruments; and
+  ‘‘(B) are not depository institutions (as defined in section 5313(g) of title 31, United States Code); and ‘‘(2) provide sufficient resources to the appropriate
+  State agency to enforce such laws and regulations prescribed pursuant to such laws.
+  ‘‘(b) MODEL STATUTE.—It is the sense of the Congress
+  that the several States should develop, through the auspices of the National Conference of Commissioners on Uniform State Laws, the American Law Institute, or such other forum as the States may determine to be appropriate, a model statute to carry out the goals described in subsection (a) which would include the following:
+  ‘‘(1) LICENSING REQUIREMENTS.—A requirement that any business described in subsection (a)(1) be licensed and regulated by an appropriate State agency in order to engage in any such activity within the State.
+  ‘‘(2) LICENSING STANDARDS.—A requirement that— ‘‘(A) in order for any business described in subsection (a)(1) to be licensed in the State, the appro-
+  priate State agency shall review and approve—
+  ‘‘(i) the business record and the capital ade-
+  quacy of the business seeking the license; and ‘‘(ii) the competence, experience, integrity, and
+  financial ability of any individual who—
+  ‘‘(I) is a director, officer, or supervisory em-
+  ployee of such business; or
+  ‘‘(II) owns or controls such business; and
+  ‘‘(B) any record, on the part of any business seeking the license or any person referred to in subparagraph (A)(ii), of—
+  ‘‘(i) any criminal activity;
+  ‘‘(ii) any fraud or other act of personal dishonesty;
+  ‘‘(iii) any act, omission, or practice which constitutes a breach of a fiduciary duty; or
+  ‘‘(iv) any suspension or removal, by any agency or department of the United States or any State, from participation in the conduct of any federally or State licensed or regulated business,
+  may be grounds for the denial of any such license by the appropriate State agency.
+  ‘‘(3) REPORTING REQUIREMENTS.—A requirement that
+  any business described in subsection (a)(1)—
+  ‘‘(A) disclose to the appropriate State agency the fees charged to consumers for services described in
+  subsection (a)(1)(A); and
+  ‘‘(B) conspicuously disclose to the public, at each
+  location of such business, the fees charged to consumers for such services.
+  ‘‘(4) PROCEDURES TO ENSURE COMPLIANCE WITH FED-
+  ERAL CASH TRANSACTION REPORTING REQUIREMENTS.—A civil or criminal penalty for operating any business referred to in paragraph (1) without establishing and complying with appropriate procedures to ensure compliance with subchapter II of chapter 53 of title 31, United States Code (relating to records and reports on monetary instruments transactions).
+  ‘‘(5) CRIMINAL PENALTIES FOR OPERATION OF BUSINESS WITHOUT A LICENSE.—A criminal penalty for operating any business referred to in paragraph (1) without a license within the State after the end of an appropriate transition period beginning on the date of enactment of such model statute by the State.
+  ‘‘(c) STUDY REQUIRED.—The Secretary of the Treasury shall conduct a study of—
+  ‘‘(1) the progress made by the several States in developing and enacting a model statute which—
+  ‘‘(A) meets the requirements of subsection (b); and
+  ‘‘(B) furthers the goals of—
+  ‘‘(i) preventing money laundering by businesses
+  which are required to be licensed under any such statute; and
+  ‘‘(ii) protecting the payment system, including the receipt, payment, collection, and clearing of checks, from fraud and abuse by such businesses; and
+  ‘‘(2) the adequacy of—
+  ‘‘(A) the activity of the several States in enforcing the requirements of such statute; and
+  ‘‘(B) the resources made available to the appropriate State agencies for such enforcement activity.
+  ‘‘(d) REPORT REQUIRED.—Not later than the end of the 3-year period beginning on the date of enactment of this Act [Sept. 23, 1994] and not later than the end of each of the first two 1-year periods beginning after the end of such 3-year period, the Secretary of the Treasury shall submit a report to the Congress containing the findings and recommendations of the Secretary in connection with the study under subsection (c), together with such recommendations for legislative and administrative action as the Secretary may determine to be appropriate.
+  ‘‘(e) RECOMMENDATIONS IN CASES OF INADEQUATE REGULATION AND ENFORCEMENT BY STATES.—If the Secretary of the Treasury determines that any State has been unable to—
+  ‘‘(1) enact a statute which meets the requirements described in subsection (b);
+  ‘‘(2) undertake adequate activity to enforce such statute; or
+  ‘‘(3) make adequate resources available to the appropriate State agency for such enforcement activity,
+  the report submitted pursuant to subsection (d) shall contain recommendations of the Secretary which are designed to facilitate the enactment and enforcement by the State of such a statute.
+  ‘‘(f) FEDERAL FUNDING STUDY.—
+  ‘‘(1) STUDY REQUIRED.—The Secretary of the Treas-
+  ury shall conduct a study to identify possible available sources of Federal funding to cover costs which will be incurred by the States in carrying out the purposes of this section.
+  ‘‘(2) REPORT.—The Secretary of the Treasury shall submit a report to the Congress on the study conducted pursuant to paragraph (1) not later than the end of the 18-month period beginning on the date of enactment of this Act [Sept. 23, 1994].’’
+  ANTI-MONEY LAUNDERING TRAINING TEAM
+  Pub. L. 102–550, title XV, § 1518, Oct. 28, 1992, 106 Stat. 4060, provided that: ‘‘The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.’’
+  ADVISORY GROUP ON REPORTING REQUIREMENTS
+  Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, provided that:
+  ‘‘(a) ESTABLISHMENT.—Not later than 90 days after the date of the enactment of this Act [Oct. 28, 1992], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 [26 U.S.C. 6050I].
+  ‘‘(b) PURPOSES.—The Advisory Group shall provide a means by which the Secretary—
+  ‘‘(1) informs private sector representatives, on a regular basis, of the ways in which the reports submitted pursuant to the requirements referred to in subsection (a) have been used;
+  ‘‘(2) informs private sector representatives, on a regular basis, of how information regarding suspicious financial transactions provided voluntarily by financial institutions has been used; and
+  ‘‘(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes.
+  ‘‘(c) INAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.—The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).’’
+  GAO FEASIBILITY STUDY OF FINANCIAL CRIMES ENFORCEMENT NETWORK
+  Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided that:
+  ‘‘(a) STUDY REQUIRED.—The Comptroller General of the United States shall conduct a feasibility study of the Financial Crimes Enforcement Network (popularly referred to as ‘Fincen’) established by the Secretary of the Treasury in cooperation with other agencies and departments of the United States and appropriate Federal banking agencies.
+  ‘‘(b) SPECIFIC REQUIREMENTS.—In conducting the study required under subsection (a), the Comptroller General shall examine and evaluate—
+  ‘‘(1) the extent to which Federal, State, and local governmental and nongovernmental organizations are voluntarily providing information which is necessary for the system to be useful for law enforcement purposes;
+  ‘‘(2) the extent to which the operational guidelines established for the system provide for the coordinated and efficient entry of information into, and withdrawal of information from, the system;
+  ‘‘(3) the extent to which the operating procedures established for the system provide appropriate standards or guidelines for determining—
+  ‘‘(A) who is to be given access to the information in the system;
+  ‘‘(B) what limits are to be imposed on the use of such information; and
+  ‘‘(C) how information about activities or relationships which involve or are closely associated with the exercise of constitutional rights is to be screened out of the system; and
+  ‘‘(4) the extent to which the operating procedures established for the system provide for the prompt verification of the accuracy and completeness of information entered into the system and the prompt deletion or correction of inaccurate or incomplete information.
+  ‘‘(c) REPORT TO CONGRESS.—Before the end of the 1year period, beginning on the date of the enactment of this Act [Oct. 28, 1992], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.’’
+  REPORTS ON USES MADE OF CURRENCY TRANSACTION REPORTS
+  Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that: ‘‘Not later than 180 days after the effective date of this section [Nov. 29, 1990], and every 2 years for 4 years, the Secretary of the Treasury shall report to the Congress the following:
+  ‘‘(1) the number of each type of report filed pursuant to subchapter II of chapter 53 of title 31, United States Code (or regulations promulgated thereunder) in the previous fiscal year;
+  ‘‘(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 [26 U.S.C. 6050I] (regarding transactions involving currency) in the previous fiscal year;
+  ‘‘(3) an estimate of the rate of compliance with the reporting requirements by persons required to file the reports referred to in paragraphs (1) and (2);
+  ‘‘(4) the manner in which the Department of the Treasury and other agencies of the United States collect, organize, analyze and use the reports referred to in paragraphs (1) and (2) to support investigations and prosecutions of (A) violations of the criminal laws of the United States, (B) violations of the laws of foreign countries, and (C) civil enforcement of the laws of the United States including the provisions regarding asset forfeiture;
+  ‘‘(5) a summary of sanctions imposed in the previous fiscal year against persons who failed to comply with the reporting requirements referred to in paragraphs (1) and (2), and other steps taken to ensure maximum compliance;
+  ‘‘(6) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by analysis of the reports referred to in paragraphs (1) and (2); and
+  ‘‘(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.’’
+  INTERNATIONAL CURRENCY TRANSACTION REPORTING
+  Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+  RESTRICTIONS ON LAUNDERING OF UNITED STATES CURRENCY
+  Pub. L. 100–690, title IV, §4702, Nov. 18, 1988, 102 Stat. 4291, as amended by Pub. L. 103–447, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4693, provided that:
+  ‘‘(a) FINDINGS.—The Congress finds that international currency transactions, especially in United States currency, that involve the proceeds of narcotics trafficking fuel trade in narcotics in the United States and worldwide and consequently are a threat to the national security of the United States.
+  ‘‘(b) PURPOSE.—The purpose of this section is to provide for international negotiations that would expand access to information on transactions involving large amounts of United States currency wherever those transactions occur worldwide.
+  ‘‘(c) NEGOTIATIONS.—(1) The Secretary of the Treasury (hereinafter in this section referred to as the ‘Secretary’) shall enter into negotiations with the appropriate financial supervisory agencies and other officials of any foreign country the financial institutions of which do business in United States currency. Highest priority shall be attached to countries whose financial institutions the Secretary determines, in consultation with the Attorney General and the Director of National Drug Control Policy, may be engaging in currency transactions involving the proceeds of international narcotics trafficking, particularly United States currency derived from drug sales in the United States.
+  ‘‘(2) The purposes of negotiations under this subsection are—
+  ‘‘(A) to reach one or more international agreements to ensure that foreign banks and other financial institutions maintain adequate records of large United States currency transactions, and
+  ‘‘(B) to establish a mechanism whereby such records may be made available to United States law enforcement officials.
+  In carrying out such negotiations, the Secretary should seek to enter into and further cooperative efforts, voluntary information exchanges, the use of letters rogatory, and mutual legal assistance treaties.
+  ‘‘(d) REPORTS.—Not later than 1 year after the date of enactment of this Act [Nov. 18, 1988], the Secretary shall submit an interim report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on progress in the negotiations under subsection (c). Not later than 2 years after such enactment, the Secretary shall submit a final report to such Committees and the President on the outcome of those negotiations and shall identify, in consultation with the Attorney General and the Director of National Drug Control Policy, countries—
+  ‘‘(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
+  ‘‘(2) which have not reached agreement with United States authorities on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings.
+  ‘‘(e) AUTHORITY.—If after receiving the advice of the Secretary and in any case at the time of receipt of the Secretary’s report, the Secretary determines that a foreign country—
+  ‘‘(1) has jurisdiction over financial institutions that are substantially engaging in currency transactions that effect [affect] the United States involving the proceeds of international narcotics trafficking;
+  ‘‘(2) such country has not reached agreement on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings; and
+  ‘‘(3) such country is not negotiating in good faith to reach such an agreement,
+  the President shall impose appropriate penalties and sanctions, including temporarily or permanently—
+  ‘‘(1) prohibiting such persons, institutions or other entities in such countries from participating in any United States dollar clearing or wire transfer system; and
+  ‘‘(2) prohibiting such persons, institutions or entities in such countries from maintaining an account with any bank or other financial institution chartered under the laws of the United States or any State.
+  Any penalties or sanctions so imposed may be delayed or waived upon certification of the President to the Congress that it is in the national interest to do so. Financial institutions in such countries that maintain adequate records shall be exempt from such penalties and sanctions.
+  ‘‘(f) DEFINITIONS.—For the purposes of this section— ‘‘(1) The term ‘United States currency’ means Fed-
+  eral Reserve Notes and United States coins.
+  ‘‘(2) The term ‘adequate records’ means records of United States’ currency transactions in excess of $10,000 including the identification of the person initiating the transaction, the person’s business or occupation, and the account or accounts affected by the
+  transaction, or other records of comparable effect.’’
+  INTERNATIONAL INFORMATION EXCHANGE SYSTEM; STUDY OF FOREIGN BRANCHES OF DOMESTIC INSTITUTIONS
+  Pub. L. 99–570, title I, §1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9 month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1)
+  the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
+`,
   constitution: `We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
 
   Article. I.
@@ -1900,12 +603,6 @@ Columbia.".
 
   6.Authorization of appropriations
   There are authorized to be appropriated to the Secretary of the Treasury such sums as are necessary to carry out this Act.`,
-  doesItHaveBitcoin: "Does this text contain Bitcoin?",
-  goodIdea: "Is it a good idea to use these seeds to actually store bitcoin?",
-  header: "Is it Bitcoin?",
-  improbable: "Not For Much Longer",
-  improbableSlug:
-    "Because this text can contain a valid seed phrase, but can be guessed in a few years or less on a GPU rig, if there is any bitcoin here, it wont be here for long.",
   legalDisclaimer: `Legal Disclaimer
 
 The content provided on this website including all related data, analyses, user interfaces, and other information, is intended for educational and informational purposes only. It should not be interpreted or relied upon as legal, financial, or any other type of professional advice. The use of this website and any actions taken based upon the content presented are solely at the user's own risk.
@@ -1956,36 +653,10 @@ These terms shall be governed and construed in accordance with the laws of The U
 
 Severability Clause
 
-If any provision of these terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions.
+If any provision of these terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions.`,
 
-`,
-  no: "No",
-  noExplain:
-    "This text can not contain any bitcoin according to the BIP39 standard.",
-  noSlug:
-    "Because the smallest Bitcoin seed phrase must be at least 12 words long, we can conclude definitively that this text does not include a Bitcoin private key adherent to the BIP39 standard.",
-  notGoodIdea:
-    "Probably not. If an attacker knows the source text above and knows it contains bitcoin, that may represent a significant advantage for an attacker. When generating a seed it is considered best practice to choose from the widest possible entropy. On top of this, valid seed phrases contain a check-sum. This means that you can not simply choose a seed phrase you like, it must first be valid. So, unless the text above has all 2048 words in the BIP39 standard, it draws from less entropy and is less secure. Generate seeds offline using entropy derived from non-computer random chance (like dice rolls).",
-
-  privateKeyCount: "Maximum Potential Bitcoin Private Keys",
-  process: "Process Text",
-
-  processBSA: "Bank Secrecy Act",
-  processConstitution: "The United States Constitution",
-  processDigital: "Digital Asset Anti-Money Laundering Act of 2023",
-  processPro111: "Proverbs 11:1",
-  processSermon: "Some Beatitudes",
   proverbs111:
     "Pro 11:1  A false balance is an abomination to the LORD, But a just weight is His delight.",
-  resultsText: "Valid BIP39 Words Extracted From Text",
-  securityAnalysis: "How Long Would It Take To Sweep All Keys?",
-
-  securityBlurb:
-    'a "key sweep" is akin to guessing a password and gaining full access to an account. It means someone else now has the ability to spend the bitcoin at those keys. To sweep "all keys" means someone has the ability to spend every possible bitcoin in the space at every possible key. Sweep "All Keys" is very different from and much harder than "Sweep ONE key"',
-
-  seedGeneratorText: "Generate Valid Seed Phrases From This Text",
-  seedIsTransmitting:
-    "If you would like to assert that this text does indeed contain bitcoin, press \"Start\" below to generate valid keys from the seed words above. The words are first shuffled in secure-random order on your local machine--it's not much, but it's better than document order. Use any generated seed phrase below to restore a Bitcoin wallet, generate an address, and send Bitcoin to that address. Upon confirmation, the text will then indeed verifiably contain bitcoin, and that bitcoin is accessible to anyone who can read the text, and find the key.",
   sermonOnTheMount: `3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
 4 Blessed are they that mourn: for they shall be comforted.
 5 Blessed are the meek: for they shall inherit the earth.
@@ -1993,8 +664,29 @@ If any provision of these terms is deemed unlawful, void, or for any reason unen
 7 Blessed are the merciful: for they shall obtain mercy.
 8 Blessed are the pure in heart: for they shall see God.
 9 Blessed are the peacemakers: for they shall be called the children of God.`,
-  triesPerSecond: " sweeps/second:",
-  yes: "Yes",
-  yesExplain:
-    "This text can contain any valid amount of Bitcoin according to the BIP39 standard.",
+  story: `BIP-39, or Bitcoin Improvement Proposal 39, is a significant protocol in the Bitcoin ecosystem, developed to enhance the security and usability of storing Bitcoin private keys. Introduced in 2013 by Marek Palatinus, Pavol Rusnak, Aaron Voisine, and Sean Bowe, it provides a standardized way to generate a mnemonic sentence—a series of easily remembered words—from a random number, which can then be used to derive a vast number of Bitcoin private keys.
+
+  ### The Genesis of BIP-39
+
+  The motivation for BIP-39 arose from a need to make the management of Bitcoin private keys more user-friendly and secure. Prior to BIP-39, managing cryptographic keys often involved handling long, complex strings of characters that were not only hard to remember but also easy to lose or mistype. The innovation of BIP-39 was in its ability to condense these complex keys into a mnemonic phrase, composed of simple, memorable words.
+
+  ### How BIP-39 Works
+
+  1. **Entropy Generation:** BIP-39 starts by generating a random number (entropy), which will dictate the security of the key. This can typically be 128, 160, 192, 224, or 256 bits long. The more bits, the greater the security.
+
+  2. **Mnemonic Conversion:** The entropy is then divided into chunks, and each chunk is used to select a word from a predefined list of 2048 words. For every 32 bits of entropy, an additional checksum bit is added, which helps verify the integrity of the seed and reduce the chance of error.
+
+  3. **Seed Derivation:** The mnemonic phrase can then be combined with a passphrase (optional but recommended for additional security) to produce a seed. This seed undergoes a hashing process to generate a master key, from which all subsequent Bitcoin keys can be derived.
+
+  ### Security Aspects
+
+  The security of BIP-39 lies in its simplicity and the cryptographic robustness of its processes. The mnemonic phrase and optional passphrase provide two layers of security. The entropy and checksum ensure that the mnemonic is both random enough to avoid guesswork and accurate enough to prevent errors. The use of a passphrase adds an additional layer of security by augmenting the seed with a user-defined password, making brute-force attacks exponentially harder.
+
+  ### Why It’s Amazing
+
+  BIP-39's true innovation is its blend of security with simplicity. The mnemonic phrases it generates can be written down, memorized, or even encoded in creative ways (like a piece of art or music) and stored physically or mentally. This ability effectively means that Bitcoin keys can be hidden anywhere—in your mind, in a book, behind a painting—any place where the words can be concealed and remembered.
+
+  ### Final Thoughts
+
+  BIP-39 revolutionized how individuals interact with Bitcoin by reducing the barrier to entry for secure key management. It transformed the cold, unfriendly world of cryptographic keys into something accessible and even poetic, with the ability to transform a random series of bits into a series of simple words that can be your key to the Bitcoin network. This not only enhances security but also significantly expands the possibilities for storing and recovering one's digital wealth. Essentially, BIP-39 has made it possible to store vast amounts of value in a way that is both secure against digital threats and incredibly flexible in terms of physical storage and concealment.`,
 };

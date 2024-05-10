@@ -74,14 +74,6 @@
 }
 
 .itemActive {
-  margin: 5px;
-  padding: 5px 10px;
-  padding-top: 2px;
-  border: 1px solid grey;
-  border-radius: 4px;
-  color-scheme: light dark;
-  display:flex;
-  flex-direction: column;
   background: #747bff;
 }
 

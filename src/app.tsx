@@ -1,13 +1,14 @@
 import "./App.css";
 
 import React, { useCallback, useEffect, useState } from "react";
+import isURL from "validator/lib/isURL";
 
 import {
   calculateTotalPermutations,
   findBIP39Words,
   timeToCrack,
 } from "./bip-39-service";
-import { content } from "./content";
+import { content, extendedContent } from "./content";
 import SeedGenerator from "./seed-generator";
 import ToggleButton from "./toggle";
 
@@ -17,6 +18,16 @@ const millRate = 1_000_000_000n;
 const laptop = `Laptop @ ${laptopRate.toLocaleString()} sweeps/second:`;
 const gpuArray = `GPU Array @ ${gpuArrayRate.toLocaleString()} sweeps/second:`;
 const mill = `Industrial Mill @ ${millRate.toLocaleString()} sweeps/second:`;
+
+const fetchURLContent = async (url: string): Promise<string> => {
+  try {
+    const response = await fetch(url);
+    return await response.text();
+  } catch (error) {
+    console.error("Error fetching URL:", error);
+    return "";
+  }
+};
 
 const App: React.FC = () => {
   const [input, setInput] = useState<string>("");
@@ -28,6 +39,7 @@ const App: React.FC = () => {
   );
   const [active, setActive] = useState<string>("");
   const [toggle, setToggle] = useState<boolean>(true);
+  const [isLoading, setIsLoading] = useState<boolean>(false);
 
   const handleInputChange = useCallback(
     (event: React.ChangeEvent<HTMLTextAreaElement>) => {
@@ -43,10 +55,24 @@ const App: React.FC = () => {
     [],
   );
 
-  const handleClick = useCallback(() => {
+  const handleClick = useCallback(async () => {
     setHasSubmitted(true);
     setActive("");
-    const output = findBIP39Words(input);
+
+    let textToProcess = input;
+
+    if (isURL(input)) {
+      setIsLoading(true);
+      const fetchedContent = await fetchURLContent(input);
+      textToProcess =
+        fetchedContent === "" ? "Failed to fetch website." : fetchedContent;
+      setInput(textToProcess);
+      const encodedURL = encodeURIComponent(input);
+      window.history.pushState({}, "", `?text=${encodedURL}`);
+      setIsLoading(false);
+    }
+
+    const output = findBIP39Words(textToProcess);
     setResult(output);
     const permutes = calculateTotalPermutations(
       output.map((item) => item.word),
@@ -68,9 +94,10 @@ const App: React.FC = () => {
     addTextFromURL();
   }, [addTextFromURL]);
 
-  const handleTextAdd = (title: keyof typeof content) => () => {
+  const handleTextAdd = (title: keyof typeof extendedContent) => () => {
     // eslint-disable-next-line security/detect-object-injection
-    setInput(content[title]);
+    setInput(extendedContent[title]);
+    setHasSubmitted(false);
   };
 
   const conclusion1 =
@@ -120,7 +147,7 @@ const App: React.FC = () => {
   const toggleComp = toggle
     ? result.map((item) => (
         <div
-          className={`item${active.includes(item.word) ? "Active" : ""}`}
+          className={`item ${active.includes(item.word) ? "itemActive" : ""}`}
           key={`${item.word}+${item.index}`}
         >
           {item.word}
@@ -128,7 +155,7 @@ const App: React.FC = () => {
       ))
     : uniqueItems.map((item) => (
         <div
-          className={`item${active.includes(item.word) ? "Active" : ""}`}
+          className={`item ${active.includes(item.word) ? "itemActive" : ""}`}
           key={`${item.word}+${item.index}`}
         >
           {item.word}
@@ -158,13 +185,20 @@ const App: React.FC = () => {
       <textarea
         className="textInput"
         onChange={handleInputChange}
-        placeholder="Choose from the examples above, Start typing, or Copy and Paste text here to analyze..."
+        placeholder="Choose from the examples above, start typing, copy and paste text or a valid URL here to analyze..."
         value={input}
       />
+      {/* eslint-disable-next-line @typescript-eslint/no-misused-promises */}
       <button onClick={handleClick} type="button">
         {content.process}
       </button>
-      {hasSubmitted && (
+      {isLoading && (
+        <>
+          <hr />
+          {content.loading}
+        </>
+      )}
+      {hasSubmitted && !isLoading && (
         <>
           <hr />
           <h2>{content.canItHaveBitcoin}</h2>
@@ -248,7 +282,9 @@ const App: React.FC = () => {
             </>
           )}
           <hr />
-          <div className="legalDisclaimer">{content.legalDisclaimer}</div>
+          <div className="legalDisclaimer">
+            {extendedContent.legalDisclaimer}
+          </div>
           <hr />
         </>
       )}
