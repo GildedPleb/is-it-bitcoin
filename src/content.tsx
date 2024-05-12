@@ -1,10 +1,16 @@
 export const content = {
+  allWordsHighlighted: "Cleaned Text With All Valid BIP38 Words Highlighted",
   allegedly: "Possibly",
   allegedlySlug:
     "Because we can not search the entire key space and key material found in this text to eliminate all private keys in any amount of reasonable time, we can not eliminate the possibility that this selection of text includes Bitcoin Private Keys adherent to the BIP39 standard. For all we know, you could be looking at thousands of Bitcoin!",
+  butWhy:
+    "Ok. It's a bad idea. But even still, could the text above be used to covertly transfer bitcoin to someone?",
   canItHaveBitcoin: "Can this text contain Bitcoin?",
+  count: "Count: ",
   doesItHaveBitcoin: "Does this text contain Bitcoin?",
-  goodIdea: "Is it a good idea to use these seeds to actually store bitcoin?",
+  finished: "~ FINISHED ~",
+  goodIdea:
+    "Is it a good idea to use these seeds to actually store and transact bitcoin?",
   header: "Is it Bitcoin?",
   improbable: "Not For Much Longer",
   improbableSlug:
@@ -14,24 +20,26 @@ export const content = {
   noExplain:
     "This text can not contain any bitcoin according to the BIP39 standard.",
   noSlug:
-    "Because the smallest Bitcoin seed phrase must be at least 12 words long, we can conclude definitively that this text does not include a Bitcoin private key adherent to the BIP39 standard.",
+    "Because the smallest Bitcoin seed phrase must be composed of valid seed words, we can conclude definitively that this text does not include a Bitcoin private key adherent to the BIP39 standard.",
   notGoodIdea:
-    "Probably not. If an attacker knows the source text above and knows it contains bitcoin, that may represent a significant advantage for an attacker. When generating a seed it is considered best practice to choose from the widest possible entropy. On top of this, valid seed phrases contain a check-sum. This means that you can not simply choose a seed phrase you like, it must first be valid. So, unless the text above has all 2048 words in the BIP39 standard, it draws from less entropy and is less secure. Generate seeds offline using entropy derived from non-computer random chance (like dice rolls).",
+    "If an attacker knows the source text above and knows it contains bitcoin, that may represent a significant advantage for an attacker. When generating a seed it is considered best practice to choose from the widest possible entropy. On top of this, valid seed phrases contain a check-sum. This means that you can not simply choose a seed phrase you like, it must first be valid. So, unless the text above has all 2048 words in the BIP39 standard, it draws from less entropy and is less secure. Humans are terrible at 'being random', generate seeds offline using entropy derived from non-computer random chance (like dice rolls).",
   privateKeyCount: "Maximum Potential Bitcoin Private Keys",
   process: "Process Text",
   processBSA: "Bank Secrecy Act",
   processConstitution: "The United States Constitution",
   processDigital: "Digital Asset Anti-Money Laundering Act of 2023",
+  processHal: "Hal Finney",
   processPro111: "Proverbs 11:1",
-  processSermon: "Some Beatitudes",
-
-  resultsText: "Valid BIP39 Words Extracted From Text",
+  processSermon: "Beatitudes",
+  resultsText: "Extracted and Unique Valid BIP39 Words",
   securityAnalysis: "How Long Would It Take To Sweep All Keys?",
   securityBlurb:
     'a "key sweep" is akin to guessing a password and gaining full access to an account. It means someone else now has the ability to spend the bitcoin at those keys. To sweep "all keys" means someone has the ability to spend every possible bitcoin in the space at every possible key. Sweep "All Keys" is very different from and much harder than "Sweep ONE key"',
-  seedGeneratorText: "Generate Valid Seed Phrases From This Text",
+  seedGeneratorText: "Valid Seed Phrases Generated From The Seed Words",
   seedIsTransmitting:
     "If you would like to assert that this text does indeed contain bitcoin, press \"Start\" below to generate valid keys from the seed words above. The words are first shuffled in secure-random order on your local machine--it's not much, but it's better than document order, and then all combinations are iteratively tried. The each iteration is then validated to see if it indeed passes all seed requirements before being rejected or displayed. Use any generated seed phrase below to restore a Bitcoin wallet, generate an address, and send Bitcoin to that address. Upon confirmation, the text will then indeed verifiably contain bitcoin, and that bitcoin is accessible to anyone who can read the text, and find the key.",
+  space: " ",
+  thatIsThePoint: "And that is the entire point of this website.",
   triesPerSecond: " sweeps/second:",
   yes: "Yes",
   yesExplain:
@@ -40,9 +48,9 @@ export const content = {
 
 export const extendedContent = {
   bankSecrecyAct: `SUBCHAPTER II—RECORDS AND REPORTS ON MONETARY INSTRUMENTS TRANSACTIONS
-  § 5311. Declaration of purpose
+  5311. Declaration of purpose
   It is the purpose of this subchapter (except section 5315) to require certain reports or records where they have a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, or in the conduct of intelligence or counterintelligence activities, including analysis, to protect against international terrorism.
-  (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, §358(a), Oct. 26, 2001, 115 Stat. 326.)
+  (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 995; Pub. L. 107–56, title III, 358(a), Oct. 26, 2001, 115 Stat. 326.)
   The Group of Seven and the Group of Twenty Finance Ministers are developing action plans to curb the financing of terror. In addition, other economic and regional fora, such as the Asia-Pacific Economic Cooperation (APEC) Forum, and the Western Hemisphere Financial Ministers, have been used to marshal political will and actions in support of combating the financing of terrorism (CFT) standards.
   ‘‘(3) FATF’s Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing are the recognized global standards for fighting money laundering and terrorist financing. The FATF has engaged in an assessment process for jurisdictions based on their compliance with these standards.
   ‘‘(4) In March 2004, the IMF and IBRD Boards agreed to make permanent a pilot program of collaboration with the FATF to assess global compliance with the FATF Forty Recommendations on Money Laundering and the Eight Special Recommendations on Terrorist Financing. As a result, anti-money laundering (AML) and combating the financing of terrorism (CFT) assessments are now a regular part of their Financial Sector Assessment Program (FSAP) and Offshore Financial Center assessments, which provide for a comprehensive analysis of the strength of a jurisdiction’s financial system. These reviews assess potential systemic vulnerabilities, consider sectoral development needs and priorities, and review the state of implementation of and compliance with key financial codes and regulatory standards, among them the AML and CFT standards.
@@ -51,7 +59,7 @@ export const extendedContent = {
   ‘‘(7) In fulfilling its duties in advancing incorporation of AML and CFT standards into the IFIs as part of the IFIs’ work on protecting the integrity of the international monetary system, the Department of the Treasury, under the guidance of the Secretary of the Treasury, has effectively brought together all of the key United States Government agencies. In particular, United States Government agencies continue to work together to foster broad support for this important undertaking in various multilateral fora, and United States Government agencies recognize the need for close coordination and communication within our own Government.
   ‘‘(b) SENSE OF CONGRESS REGARDING SUCCESS IN MULTILATERAL ORGANIZATIONS.—It is the sense of Congress that the Secretary of the Treasury should continue to promote the dissemination of international AML and CFT standards, and to press for full implementation of the FATF 40 + 8 Recommendations by all countries in order to curb financial risks and hinder terrorist financing around the globe. The efforts of the Secretary in this regard should include, where necessary or appropriate, multilateral action against countries whose counter-money laundering regimes and efforts against the financing of terrorism fall below recognized international standards.
   ‘‘SEC. 7702. DEFINITIONS.
-  ‘‘In this subtitle [subtitle G (§§7701–7704) of title VII
+  ‘‘In this subtitle [subtitle G (7701–7704) of title VII
   of Pub. L. 108–458, amending sections 262o–2 and 262r–4 of Title 22, Foreign Relations and Intercourse]—
   ‘‘(1) the term ‘international financial institutions’ has the same meaning as in section 1701(c)(2) of the International Financial Institutions Act [22 U.S.C. 262r(c)(2)];
   ‘‘(2) the term ‘Financial Action Task Force’ means the international policy-making and standard-setting body dedicated to combating money laundering and terrorist financing that was created by the Group of Seven in 1989; and
@@ -59,7 +67,7 @@ export const extendedContent = {
   ‘‘SEC. 7704. COORDINATION OF UNITED STATES GOVERNMENT EFFORTS.
   ‘‘The Secretary of the Treasury, or the designee of the Secretary, as the lead United States Government official to the Financial Action Task Force (FATF), shall continue to convene the interagency United States Government FATF working group. This group, which includes representatives from all relevant Federal agencies, shall meet at least once a year to advise the Secretary on policies to be pursued by the United States regarding the development of common international AML and CFT standards, to assess the adequacy and implementation of such standards, and to recommend to the Secretary improved or new standards, as necessary.’’
   INTERNATIONAL MONEY LAUNDERING ABATEMENT AND FINANCIAL ANTI-TERRORISM ACT OF 2001; FINDINGS AND PURPOSES
-  Pub. L. 107–56, title III, §302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, §6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
+  Pub. L. 107–56, title III, 302, Oct. 26, 2001, 115 Stat. 296, as amended by Pub. L. 108–458, title VI, 6202(c), Dec. 17, 2004, 118 Stat. 3745, provided that:
   ‘‘(a) FINDINGS.—The Congress finds that—
   ‘‘(1) money laundering, estimated by the International Monetary Fund to amount to between 2 and 5 percent of global gross domestic product, which is at least $600,000,000,000 annually, provides the financial fuel that permits transnational criminal enterprises to conduct and expand their operations to the detriment of the safety and security of American citi-
   zens;
@@ -93,9 +101,9 @@ export const extendedContent = {
   ‘‘(12) to strengthen the ability of financial institutions to maintain the integrity of their employee population; and
   ‘‘(13) to strengthen measures to prevent the use of the United States financial system for personal gain by corrupt foreign officials and to facilitate the repatriation of any stolen assets to the citizens of countries to whom such assets belong.’’
   FOUR-YEAR CONGRESSIONAL REVIEW; EXPEDITED CONSIDERATION
-  Pub. L. 107–56, title III, §303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, §6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: ‘‘That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.’’, was repealed by Pub. L. 108–458, title VI, §§6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
+  Pub. L. 107–56, title III, 303, Oct. 26, 2001, 115 Stat. 298, as amended by Pub. L. 108–458, title VI, 6202(d), Dec. 17, 2004, 118 Stat. 3745, which provided that, effective on and after the first day of fiscal year 2005, the provisions of title III of Pub. L. 107–56 and the amendments made by such title would terminate if the Congress enacted a joint resolution, the text after the resolving clause of which was as follows: ‘‘That provisions of the International Money Laundering Abatement and Financial Antiterrorism Act of 2001, and the amendments made thereby, shall no longer have the force of law.’’, was repealed by Pub. L. 108–458, title VI, 6204, 6205, Dec. 17, 2004, 118 Stat. 3747, effective as if included in Pub. L. 107–56, as of the date of enactment of such Act.
   COOPERATIVE EFFORTS TO DETER MONEY LAUNDERING
-  Pub. L. 107–56, title III, §314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, §6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
+  Pub. L. 107–56, title III, 314, Oct. 26, 2001, 115 Stat. 307, as amended by Pub. L. 108–458, title VI, 6202(f), Dec. 17, 2004, 118 Stat. 3745, provided that:
   ‘‘(a) COOPERATION AMONG FINANCIAL INSTITUTIONS, REGULATORY AUTHORITIES, AND LAW ENFORCEMENT AUTHORITIES.—
   ‘‘(1) REGULATIONS.—The Secretary [of the Treasury] shall, within 120 days after the date of enactment of this Act [Oct. 26, 2001], adopt regulations to encourage further cooperation among financial institutions, their regulatory authorities, and law enforcement authorities, with the specific purpose of encouraging regulatory authorities and law enforcement authorities to share with financial institutions information regarding individuals, entities, and organizations engaged in, or reasonably suspected based on credible evidence of engaging in, terrorist acts or money laundering activities.
   ‘‘(2) COOPERATION AND INFORMATION SHARING PROCEDURES.—The regulations adopted under paragraph (1) may include or create procedures for cooperation and information sharing focusing on—
@@ -113,20 +121,20 @@ export const extendedContent = {
   ‘‘(1) publish a report containing a detailed analysis identifying patterns of suspicious activity and other investigative insights derived from suspicious activity reports and investigations conducted by Federal, State, and local law enforcement agencies to the extent appropriate; and
   ‘‘(2) distribute such report to financial institutions (as defined in section 5312 of title 31, United States Code).’’
   REPORT AND RECOMMENDATION ON LEGISLATIVE ACTION ON INTERNATIONAL COUNTER MONEY LAUNDERING PROVISIONS
-  Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: ‘‘Not later than 30 months after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle [subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.’’
+  Pub. L. 107–56, title III, 324, Oct. 26, 2001, 115 Stat. 316, provided that: ‘‘Not later than 30 months after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act [12 U.S.C. 1813]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle [subtitle A (311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.’’
   INTERNATIONAL COOPERATION ON IDENTIFICATION OF ORIGINATORS OF WIRE TRANSFERS
-  Pub. L. 107–56, title III, §328, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘The Secretary [of the Treasury] shall—
+  Pub. L. 107–56, title III, 328, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘The Secretary [of the Treasury] shall—
   ‘‘(1) in consultation with the Attorney General and the Secretary of State, take all reasonable steps to encourage foreign governments to require the inclusion of the name of the originator in wire transfer instructions sent to the United States and other countries, with the information to remain with the transfer from its origination until the point of disbursement; and
   ‘‘(2) report annually to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on—
   ‘‘(A) progress toward the goal enumerated in paragraph (1), as well as impediments to implementation and an estimated compliance rate; and
   ‘‘(B) impediments to instituting a regime in which all appropriate identification, as defined by the Secretary, about wire transfer recipients shall be included with wire transfers from their point of origination until disbursement.’’
   CRIMINAL PENALTIES
-  Pub. L. 107–56, title III, §329, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
+  Pub. L. 107–56, title III, 329, Oct. 26, 2001, 115 Stat. 319, provided that: ‘‘Any person who is an official or employee of any department, agency, bureau, office, commission, or other entity of the Federal Government, and any other person who is acting for or on behalf of any such entity, who, directly or indirectly, in connection with the administration of this title [see Short Title of 2001 Amendment note set out under section 5301 of this title], corruptly demands, seeks, receives, accepts, or agrees to receive or accept anything of value personally or for any other person or entity in return for—
   ‘‘(1) being influenced in the performance of any official act;
   ‘‘(2) being influenced to commit or aid in the committing, or to collude in, or allow, any fraud, or make opportunity for the commission of any fraud, on the United States; or
   ‘‘(3) being induced to do or omit to do any act in violation of the official duty of such official or person, shall be fined in an amount not more than 3 times the monetary equivalent of the thing of value, or imprisoned for not more than 15 years, or both. A violation of this section shall be subject to chapter 227 of title 18, United States Code, and the provisions of the United States Sentencing Guidelines.’’
   REPORT ON INVESTMENT COMPANIES
-  Pub. L. 107–56, title III, §356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, §6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
+  Pub. L. 107–56, title III, 356(c), Oct. 26, 2001, 115 Stat. 324, as amended by Pub. L. 108–458, title VI, 6202(j), Dec. 17, 2004, 118 Stat. 3746, provided that:
   ‘‘(1) IN GENERAL.—Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary [of the Treasury], the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall jointly submit a report to the Congress on recommendations for effective regulations to apply the requirements of subchapter II of chapter 53 of title 31, United States Code, to investment companies pursuant to section 5312(a)(2)(I) of title 31, United States Code.
   ‘‘(2) DEFINITION.—For purposes of this subsection, the term ‘investment company’—
   ‘‘(A) has the same meaning as in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3); and ‘‘(B) includes any person that, but for the exceptions provided for in paragraph (1) or (7) of section 3(c) of the Investment Company Act of 1940 (15 U.S.C.
@@ -134,9 +142,9 @@ export const extendedContent = {
   ‘‘(3) ADDITIONAL RECOMMENDATIONS.—The report required by paragraph (1) may make different recommendations for different types of entities covered by this subsection.
   ‘‘(4) BENEFICIAL OWNERSHIP OF PERSONAL HOLDING COMPANIES.—The report described in paragraph (1) shall also include recommendations as to whether the Secretary should promulgate regulations to treat any corporation, business trust, or other grantor trust whose assets are predominantly securities, bank certificates of deposit, or other securities or investment instruments (other than such as relate to operating subsidiaries of such corporation or trust) and that has 5 or fewer common shareholders or holders of beneficial or other equity interest, as a financial institution within the meaning of that phrase in section 5312(a)(2)(I) and whether to require such corporations or trusts to disclose their beneficial owners when opening accounts or initiating funds transfers at any domestic financial institution.’’
   REPORT ON NEED FOR ADDITIONAL LEGISLATION RELATING TO INFORMAL MONEY TRANSFER SYSTEMS
-  Pub. L. 107–56, title III, §359(d), Oct. 26, 2001, 115 Stat. 329, provided that: ‘‘Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.’’
+  Pub. L. 107–56, title III, 359(d), Oct. 26, 2001, 115 Stat. 329, provided that: ‘‘Not later than 1 year after the date of enactment of this Act [Oct. 26, 2001], the Secretary of the Treasury shall report to Congress on the need for any additional legislation relating to persons who engage as a business in an informal money transfer system or any network of people who engage as a business in facilitating the transfer of money domestically or internationally outside of the conventional financial institutions system, counter money laundering and regulatory controls relating to underground money movement and banking systems, including whether the threshold for the filing of suspicious activity reports under section 5318(g) of title 31, United States Code should be lowered in the case of such systems.’’
   UNIFORM STATE LICENSING AND REGULATION OF CHECK CASHING, CURRENCY EXCHANGE, AND MONEY TRANSMITTING BUSINESSES
-  Pub. L. 103–325, title IV, §407, Sept. 23, 1994, 108 Stat. 2247, provided that:
+  Pub. L. 103–325, title IV, 407, Sept. 23, 1994, 108 Stat. 2247, provided that:
   ‘‘(a) UNIFORM LAWS AND ENFORCEMENT.—For purposes of preventing money laundering and protecting the payment system from fraud and abuse, it is the sense of the Congress that the several States should—
   ‘‘(1) establish uniform laws for licensing and regulating businesses which—
   ‘‘(A) provide check cashing, currency exchange, or money transmitting or remittance services, or issue or redeem money orders, travelers’ checks, and other similar instruments; and
@@ -189,9 +197,9 @@ export const extendedContent = {
   ury shall conduct a study to identify possible available sources of Federal funding to cover costs which will be incurred by the States in carrying out the purposes of this section.
   ‘‘(2) REPORT.—The Secretary of the Treasury shall submit a report to the Congress on the study conducted pursuant to paragraph (1) not later than the end of the 18-month period beginning on the date of enactment of this Act [Sept. 23, 1994].’’
   ANTI-MONEY LAUNDERING TRAINING TEAM
-  Pub. L. 102–550, title XV, § 1518, Oct. 28, 1992, 106 Stat. 4060, provided that: ‘‘The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.’’
+  Pub. L. 102–550, title XV,  1518, Oct. 28, 1992, 106 Stat. 4060, provided that: ‘‘The Secretary of the Treasury and the Attorney General shall jointly establish a team of experts to assist and provide training to foreign governments and agencies thereof in developing and expanding their capabilities for investigating and prosecuting violations of money laundering and related laws.’’
   ADVISORY GROUP ON REPORTING REQUIREMENTS
-  Pub. L. 102–550, title XV, § 1564, Oct. 28, 1992, 106 Stat. 4073, provided that:
+  Pub. L. 102–550, title XV,  1564, Oct. 28, 1992, 106 Stat. 4073, provided that:
   ‘‘(a) ESTABLISHMENT.—Not later than 90 days after the date of the enactment of this Act [Oct. 28, 1992], the Secretary of the Treasury shall establish a Bank Secrecy Act Advisory Group consisting of representatives of the Department of the Treasury, the Department of Justice, and the Office of National Drug Control Policy and of other interested persons and financial institutions subject to the reporting requirements of subchapter II of chapter 53 of title 31, United States Code, or section 6050I of the Internal Revenue Code of 1986 [26 U.S.C. 6050I].
   ‘‘(b) PURPOSES.—The Advisory Group shall provide a means by which the Secretary—
   ‘‘(1) informs private sector representatives, on a regular basis, of the ways in which the reports submitted pursuant to the requirements referred to in subsection (a) have been used;
@@ -199,7 +207,7 @@ export const extendedContent = {
   ‘‘(3) receives advice on the manner in which the reporting requirements referred to in subsection (a) should be modified to enhance the ability of law enforcement agencies to use the information provided for law enforcement purposes.
   ‘‘(c) INAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.—The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Bank Secrecy Act Advisory Group established pursuant to subsection (a).’’
   GAO FEASIBILITY STUDY OF FINANCIAL CRIMES ENFORCEMENT NETWORK
-  Pub. L. 102–550, title XV, § 1565, Oct. 28, 1992, 106 Stat. 4074, provided that:
+  Pub. L. 102–550, title XV,  1565, Oct. 28, 1992, 106 Stat. 4074, provided that:
   ‘‘(a) STUDY REQUIRED.—The Comptroller General of the United States shall conduct a feasibility study of the Financial Crimes Enforcement Network (popularly referred to as ‘Fincen’) established by the Secretary of the Treasury in cooperation with other agencies and departments of the United States and appropriate Federal banking agencies.
   ‘‘(b) SPECIFIC REQUIREMENTS.—In conducting the study required under subsection (a), the Comptroller General shall examine and evaluate—
   ‘‘(1) the extent to which Federal, State, and local governmental and nongovernmental organizations are voluntarily providing information which is necessary for the system to be useful for law enforcement purposes;
@@ -211,7 +219,7 @@ export const extendedContent = {
   ‘‘(4) the extent to which the operating procedures established for the system provide for the prompt verification of the accuracy and completeness of information entered into the system and the prompt deletion or correction of inaccurate or incomplete information.
   ‘‘(c) REPORT TO CONGRESS.—Before the end of the 1year period, beginning on the date of the enactment of this Act [Oct. 28, 1992], the Comptroller General of the United States shall submit a report to the Congress containing the findings and conclusions of the Comptroller General in connection with the study conducted pursuant to subsection (a), together with such recommendations for legislative or administrative action as the Comptroller General may determine to be appropriate.’’
   REPORTS ON USES MADE OF CURRENCY TRANSACTION REPORTS
-  Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that: ‘‘Not later than 180 days after the effective date of this section [Nov. 29, 1990], and every 2 years for 4 years, the Secretary of the Treasury shall report to the Congress the following:
+  Pub. L. 101–647, title I, 101, Nov. 29, 1990, 104 Stat. 4789, provided that: ‘‘Not later than 180 days after the effective date of this section [Nov. 29, 1990], and every 2 years for 4 years, the Secretary of the Treasury shall report to the Congress the following:
   ‘‘(1) the number of each type of report filed pursuant to subchapter II of chapter 53 of title 31, United States Code (or regulations promulgated thereunder) in the previous fiscal year;
   ‘‘(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 [26 U.S.C. 6050I] (regarding transactions involving currency) in the previous fiscal year;
   ‘‘(3) an estimate of the rate of compliance with the reporting requirements by persons required to file the reports referred to in paragraphs (1) and (2);
@@ -220,9 +228,9 @@ export const extendedContent = {
   ‘‘(6) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by analysis of the reports referred to in paragraphs (1) and (2); and
   ‘‘(7) a summary of criminal indictments filed in the previous fiscal year which resulted, in large part, from investigations initiated by information regarding suspicious financial transactions provided voluntarily by financial institutions.’’
   INTERNATIONAL CURRENCY TRANSACTION REPORTING
-  Pub. L. 100–690, title IV, §4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583, § 6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
+  Pub. L. 100–690, title IV, 4701, Nov. 18, 1988, 102 Stat. 4290, stated Congressional findings concerning success of cash transaction and money laundering control statutes in United States and desirability of United States playing a leadership role in development of similar international system, urged United States Government to seek active cooperation of other countries in enforcement of such statutes, urged Secretary of the Treasury to negotiate with finance ministers of foreign countries to establish an international currency control agency to serve as central source of information and database for international drug enforcement agencies to collect and analyze currency transaction reports filed by member countries, and encouraged adoption, by member countries, of uniform cash transaction and money laundering statutes, prior to repeal by Pub. L. 102–583,  6(e)(1), Nov. 2, 1992, 106 Stat. 4933.
   RESTRICTIONS ON LAUNDERING OF UNITED STATES CURRENCY
-  Pub. L. 100–690, title IV, §4702, Nov. 18, 1988, 102 Stat. 4291, as amended by Pub. L. 103–447, title I, § 103(b), Nov. 2, 1994, 108 Stat. 4693, provided that:
+  Pub. L. 100–690, title IV, 4702, Nov. 18, 1988, 102 Stat. 4291, as amended by Pub. L. 103–447, title I,  103(b), Nov. 2, 1994, 108 Stat. 4693, provided that:
   ‘‘(a) FINDINGS.—The Congress finds that international currency transactions, especially in United States currency, that involve the proceeds of narcotics trafficking fuel trade in narcotics in the United States and worldwide and consequently are a threat to the national security of the United States.
   ‘‘(b) PURPOSE.—The purpose of this section is to provide for international negotiations that would expand access to information on transactions involving large amounts of United States currency wherever those transactions occur worldwide.
   ‘‘(c) NEGOTIATIONS.—(1) The Secretary of the Treasury (hereinafter in this section referred to as the ‘Secretary’) shall enter into negotiations with the appropriate financial supervisory agencies and other officials of any foreign country the financial institutions of which do business in United States currency. Highest priority shall be attached to countries whose financial institutions the Secretary determines, in consultation with the Attorney General and the Director of National Drug Control Policy, may be engaging in currency transactions involving the proceeds of international narcotics trafficking, particularly United States currency derived from drug sales in the United States.
@@ -246,7 +254,7 @@ export const extendedContent = {
   ‘‘(2) The term ‘adequate records’ means records of United States’ currency transactions in excess of $10,000 including the identification of the person initiating the transaction, the person’s business or occupation, and the account or accounts affected by the
   transaction, or other records of comparable effect.’’
   INTERNATIONAL INFORMATION EXCHANGE SYSTEM; STUDY OF FOREIGN BRANCHES OF DOMESTIC INSTITUTIONS
-  Pub. L. 99–570, title I, §1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9 month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1)
+  Pub. L. 99–570, title I, 1363, Oct. 27, 1986, 100 Stat. 3207–33, required the Secretary of the Treasury to initiate discussions with the central banks or other appropriate governmental authorities of other countries and propose that an information exchange system be established to reduce international flow of money derived from illicit drug operations and other criminal activities and to report to Congress before the end of the 9 month period beginning Oct. 27, 1986. The Secretary of the Treasury was also required to conduct a study of (1)
   the extent to which foreign branches of domestic institutions are used to facilitate illicit transfers of or to evade reporting requirements on transfers of coins, currency, and other monetary instruments into and out of the United States; (2) the extent to which the law of the United States is applicable to the activities of such foreign branches; and (3) methods for obtaining the cooperation of the country in which any such foreign branch is located for purposes of enforcing the law of the United States with respect to transfers, and reports on transfers, of such monetary instruments into and out of the United States and to report to Congress before the end of the 9-month period beginning Oct. 27, 1986.
 `,
   constitution: `We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.
@@ -654,16 +662,22 @@ These terms shall be governed and construed in accordance with the laws of The U
 Severability Clause
 
 If any provision of these terms is deemed unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from these terms and shall not affect the validity and enforceability of any remaining provisions.`,
-
   proverbs111:
-    "Pro 11:1  A false balance is an abomination to the LORD, But a just weight is His delight.",
-  sermonOnTheMount: `3 Blessed are the poor in spirit: for theirs is the kingdom of heaven.
-4 Blessed are they that mourn: for they shall be comforted.
-5 Blessed are the meek: for they shall inherit the earth.
-6 Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
-7 Blessed are the merciful: for they shall obtain mercy.
-8 Blessed are the pure in heart: for they shall see God.
-9 Blessed are the peacemakers: for they shall be called the children of God.`,
+    "A false balance is an abomination to the LORD, But a just weight is His delight.",
+  // proverbs111:
+  //   "In our financial system, pretty much everybody follows the same set of rules. I'm talking banks and credit unions, credit card companies, gold traders and stockbrokers, Private Equity now has to follow the rules, precious metal dealers Venmo, Western Union, but not crypto.",
+
+  runningBitcoin: "Running bitcoin",
+  sermonOnTheMount: `Blessed are the poor in spirit: for theirs is the kingdom of heaven.
+Blessed are they that mourn: for they shall be comforted.
+Blessed are the meek: for they shall inherit the earth.
+Blessed are they which do hunger and thirst after righteousness: for they shall be filled.
+Blessed are the merciful: for they shall obtain mercy.
+Blessed are the pure in heart: for they shall see God.
+Blessed are the peacemakers: for they shall be called the children of God.
+Blessed are they which are persecuted for righteousness' sake: for theirs is the kingdom of heaven.
+Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.
+Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you.`,
   story: `BIP-39, or Bitcoin Improvement Proposal 39, is a significant protocol in the Bitcoin ecosystem, developed to enhance the security and usability of storing Bitcoin private keys. Introduced in 2013 by Marek Palatinus, Pavol Rusnak, Aaron Voisine, and Sean Bowe, it provides a standardized way to generate a mnemonic sentence—a series of easily remembered words—from a random number, which can then be used to derive a vast number of Bitcoin private keys.
 
   ### The Genesis of BIP-39
