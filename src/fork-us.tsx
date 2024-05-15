@@ -6,15 +6,13 @@ const source = "Source on GitHub";
 
 const ForkUs = (): React.JSX.Element => {
   return (
-    <a
-      aria-label={label}
-      className="angled-ribbon"
-      href="https://github.com/gildedpleb/is-it-bitcoin"
-    >
-      {verify}
-      <br />
-      {source}
-    </a>
+    <div className="angled-ribbon">
+      <a aria-label={label} href="https://github.com/gildedpleb/is-it-bitcoin">
+        {verify}
+        <br />
+        {source}
+      </a>
+    </div>
   );
 };
 

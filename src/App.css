@@ -6,27 +6,34 @@
 
 .angled-ribbon {
   position: absolute;
-  top: 140px;
-  right: -85px;
-  background-color: #1a1a1a;
-  color: #fff;
-  padding: 10px 10px;
-  width: 300px;
-  text-decoration: none;
-  font-size: 14px;
-  font-weight: bold;
-  transform: rotate(45deg);
-  transform-origin: top right;
+  top: 0;
+  right: 0;
+  width: 200px;
+  height: 135px;
+  overflow: hidden;
   z-index: 1000;
-  white-space: nowrap;
-  transition: all .3s;
 }
 
-.angled-ribbon:hover {
-  background: #444;
+.angled-ribbon a {
+  display: block;
+  width: 300px;
+  height: 45px;
+  background: #1a1a1a;
+  color: #ffffff;
+  font-size: .8rem;
+  font-weight: bold;
+  text-align: center;
+  position: absolute;
+  top: 30px;
+  right: -100px;
+  transform: rotate(45deg);
+  transition: all 0.3s;
+  border: 1px solid #1a1a1a;
 }
 
-
+.angled-ribbon a:hover {
+  border-color: #646cff;
+}
 
 .card {
   padding: 2em;
