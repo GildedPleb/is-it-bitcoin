@@ -156,7 +156,7 @@ const SeedGenerator: React.FC<SeedProperties> = ({
           setCount((previousCount) => previousCount + 1);
         }
         // Introduce a delay for UI responsiveness and to simulate processing
-        await new Promise((resolve) => setTimeout(resolve, 1));
+        await new Promise((resolve) => setTimeout(resolve, 10));
       }
     }
     setIsGenerating(false);

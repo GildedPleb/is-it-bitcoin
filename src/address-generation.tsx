@@ -104,7 +104,7 @@ const AddressGenerator: React.FC<SeedProperties> = ({ active }) => {
 
           setCount((previous) => previous + 1);
         }
-        await new Promise((resolve) => setTimeout(resolve, 1));
+        await new Promise((resolve) => setTimeout(resolve, 10));
       }
       setIsGenerating(false);
     },
