@@ -4,6 +4,30 @@
   text-align: center;
 }
 
+.angled-ribbon {
+  position: absolute;
+  top: 140px;
+  right: -85px;
+  background-color: #1a1a1a;
+  color: #fff;
+  padding: 10px 10px;
+  width: 300px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+  transform: rotate(45deg);
+  transform-origin: top right;
+  z-index: 1000;
+  white-space: nowrap;
+  transition: all .3s;
+}
+
+.angled-ribbon:hover {
+  background: #444;
+}
+
+
+
 .card {
   padding: 2em;
 }
@@ -19,6 +43,17 @@
   margin: 20px;
   height: 200px;
   width: 70vw;
+}
+
+.textInputSeed {
+  margin: 20px;
+  height: auto;
+  width: 60vw;
+  max-width: 800px;
+}
+
+.error {
+  color: #aa0000;
 }
 
 .box {
@@ -62,15 +97,6 @@
 }
 
 .seedItemActive {
-  margin: 5px;
-  padding: 5px 10px;
-  padding-top: 2px;
-  border: 1px solid grey;
-  border-radius: 4px;
-  color-scheme: light dark;
-  display:flex;
-  flex-direction: column;
-  max-width: inherit;
   background: #747bff;
 }
 
@@ -228,15 +254,6 @@
 }
 
 .addressItemActive {
-  margin: 5px;
-  padding: 5px 10px;
-  padding-top: 2px;
-  border: 1px solid grey;
-  border-radius: 4px;
-  color-scheme: light dark;
-  display:flex;
-  flex-direction: column;
-  max-width: inherit;
   background: #747bff;
 }
 

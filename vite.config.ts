@@ -28,4 +28,7 @@ export default defineConfig({
     },
   },
   base: "/is-it-bitcoin/",
+  build: {
+    target: "es2022", // You can use 'es2022' or higher
+  },
 });

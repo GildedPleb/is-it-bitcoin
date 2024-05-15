@@ -128,13 +128,9 @@ export const checkAddressHistory = async (
 ): Promise<[boolean, number]> => {
   // Check if the address data is in the cache
   const cachedData = cache.get(address);
-  if (cachedData !== undefined) {
-    console.log(`Cache hit for address: ${address}`);
-    return cachedData;
-  }
+  if (cachedData !== undefined) return cachedData;
 
   const call = `https://blockstream.info/api/address/${address}`;
-  console.log("calling:", call);
   try {
     // Call the API
     const response = await fetch(call);

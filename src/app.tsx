@@ -12,6 +12,7 @@ import {
   wordlist,
 } from "./bip-39";
 import { content, extendedContent } from "./content";
+import ForkUs from "./fork-us";
 import SeedGenerator from "./seed-generator";
 
 const laptopRate = 1000n;
@@ -99,7 +100,7 @@ const App: React.FC = () => {
   const permutations = calculateTotalPermutations(filteredWords);
 
   const conclusion1 =
-    permutations > 0n ? (
+    count > 0 ? (
       timeToCrack(permutations, gpuArrayRate).secure ? (
         <>
           <h1>{content.allegedly}</h1>
@@ -278,6 +279,7 @@ const App: React.FC = () => {
       <div className="legalDisclaimer">{extendedContent.legalDisclaimer}</div>
       <hr />
       <ToastContainer />
+      <ForkUs />
     </div>
   );
 };

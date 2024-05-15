@@ -3,6 +3,7 @@
 import "react-toastify/dist/ReactToastify.css";
 
 import { validateMnemonic } from "bip39";
+import * as bip39 from "bip39";
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import { toast } from "react-toastify";
 
@@ -12,6 +13,7 @@ import {
   generatePermutations,
 } from "./bip-39";
 import { VALID_LENGTHS } from "./constants";
+import { content } from "./content";
 
 // eslint-disable-next-line functional/no-mixed-types
 interface SeedProperties {
@@ -97,6 +99,8 @@ const SeedGenerator: React.FC<SeedProperties> = ({
   const [finished, setFinished] = useState<boolean>(false);
   const currentIndex = useRef<number>(0);
   const isInitialized = useRef<boolean>(false);
+  const [textInput, setTextInput] = useState<string>(active);
+  const [invalid, setInvalid] = useState<boolean>(false);
 
   const waitWhilePaused = async (): Promise<void> => {
     while (!generatingReference.current)
@@ -157,24 +161,27 @@ const SeedGenerator: React.FC<SeedProperties> = ({
     }
     setIsGenerating(false);
     setFinished(true);
-  }, [foundBip39Words, processKey]);
+  }, [foundBip39Words, setCount]);
 
   const startGenerating = useCallback(() => {
     generatingReference.current = true;
     setIsGenerating(true);
-
-    processSeeds().catch((error) => {
-      console.error(error);
-    });
-    processNextSeed().catch((error) => {
-      console.error(error);
-    });
-  }, [processNextSeed, processSeeds]);
+    if (!startedOnce) {
+      processSeeds().catch(console.error);
+      processNextSeed().catch(console.error);
+    }
+  }, [processNextSeed, processSeeds, startedOnce]);
 
   const stopGenerating = useCallback(() => {
     generatingReference.current = false;
     setIsGenerating(false);
   }, []);
+
+  useEffect(() => {
+    if (count === 1000 && isGenerating) stopGenerating();
+    // disabled because we do not want to check on isGenerating changes (when we do, we can not click continue after it stops)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [count, stopGenerating]);
 
   useEffect(() => {
     if (processKey.current !== foundBip39Words.join(" ")) {
@@ -186,10 +193,12 @@ const SeedGenerator: React.FC<SeedProperties> = ({
       setCount(0);
       setStartedOnce(false);
       setFinished(false);
+      setTextInput("");
+      setInvalid(false);
       currentIndex.current = 0;
       isInitialized.current = false;
     }
-  }, [foundBip39Words, processKey, stopGenerating]);
+  }, [foundBip39Words, processKey, setCount, stopGenerating]);
 
   useEffect(() => {
     if (!startedOnce && processKey.current !== "") {
@@ -209,9 +218,11 @@ const SeedGenerator: React.FC<SeedProperties> = ({
       ? "Finished"
       : "Continue";
 
-  const handleClick = (seed: string) => async () => {
+  const handleClick = (seed: string) => () => {
     setActive(seed);
-    await handleCopy(seed);
+    setTextInput(seed);
+    setInvalid(false);
+    handleCopy(seed).catch(console.error);
   };
 
   const history = (innerSeed: string): string => {
@@ -223,6 +234,28 @@ const SeedGenerator: React.FC<SeedProperties> = ({
       ? "(Dirty, " + (balance > 0 ? `🎉${balance} sats🎉)` : "0 sats)")
       : "(Clean)";
   };
+
+  const handleInputChange = useCallback(
+    (event: React.ChangeEvent<HTMLTextAreaElement>) => {
+      const value = event.target.value.toLowerCase();
+      setTextInput(value);
+      if (bip39.validateMnemonic(value)) {
+        setActive(value);
+        setInvalid(false);
+      } else {
+        setInvalid(true);
+        setActive("");
+      }
+    },
+    [setActive],
+  );
+
+  const invalidStatus = invalid ? (
+    <span className="error">{content.seedInvalid}</span>
+  ) : (
+    <span className="error">{content.space}</span>
+  );
+
   return (
     <>
       <div className="counts">{counts(count, permutations)}</div>
@@ -230,7 +263,7 @@ const SeedGenerator: React.FC<SeedProperties> = ({
         {seeds.map((seed) => (
           <div className="seedGeneratorItem" key={seed}>
             <button
-              className={`seedItem${seed === active ? "Active" : ""}`}
+              className={`seedItem ${seed === active ? "seedItemActive" : ""}`}
               onClick={handleClick(seed)}
               type="button"
             >
@@ -247,6 +280,13 @@ const SeedGenerator: React.FC<SeedProperties> = ({
       >
         {buttonText}
       </button>
+      <textarea
+        className="textInputSeed"
+        onChange={handleInputChange}
+        placeholder="Select a seed phrase from above, start typing, or copy and paste a seed phrase to find addresses..."
+        value={textInput}
+      />
+      {invalidStatus}
     </>
   );
 };

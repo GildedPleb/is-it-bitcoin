@@ -36,6 +36,7 @@ export const content = {
   securityBlurb:
     'a "key sweep" is akin to guessing a password and gaining full access to an account. It means someone else now has the ability to spend the bitcoin at those keys. To sweep "all keys" means someone has the ability to spend every possible bitcoin in the space at every possible key. Sweep "All Keys" is very different from and much harder than "Sweep ONE key"',
   seedGeneratorText: "Valid Seed Phrases Generated From The Seed Words",
+  seedInvalid: "Seed phrase is invalid",
   seedIsTransmitting:
     "If you would like to assert that this text does indeed contain bitcoin, press \"Start\" below to generate valid keys from the seed words above. The words are first shuffled in secure-random order on your local machine--it's not much, but it's better than document order, and then all combinations are iteratively tried. The each iteration is then validated to see if it indeed passes all seed requirements before being rejected or displayed. Use any generated seed phrase below to restore a Bitcoin wallet, generate an address, and send Bitcoin to that address. Upon confirmation, the text will then indeed verifiably contain bitcoin, and that bitcoin is accessible to anyone who can read the text, and find the key.",
   space: " ",
